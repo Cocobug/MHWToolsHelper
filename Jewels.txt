@@ -1,0 +1,1434 @@
+Antidote Jewel 1
+Poison Resistance 1
+	4.57% 	3.49% 	0.54%
+Antipara Jewel 1
+Paralysis Resistance 1
+	4.57% 	3.49% 	0.54%
+Pep Jewel 1
+Sleep Resistance 1
+	4.57% 	3.49% 	0.54%
+Steadfast Jewel 1
+Stun Resistance 1
+	0.71% 	1.62% 	3.90% 	3.67% 	2.52% 	0.60% 	0.39%
+Antiblast Jewel 1
+Blast Resistance 1
+	2.74% 	2.10% 	0.32%
+Suture Jewel 1
+Bleeding Resistance 1
+	2.74% 	2.10% 	0.32%
+Def Lock Jewel 1
+Iron Skin 1
+	4.57% 	3.49% 	0.54%
+Earplug Jewel 3
+Earplugs 1
+	0.43% 	0.97% 	2.34% 	2.20% 	1.51% 	0.60% 	0.39%
+Wind Resist Jewel 2
+Windproof 1
+	0.43% 	0.97% 	2.34% 	2.20% 	1.51% 	0.60% 	0.39%
+Footing Jewel 2
+Tremor Resistance 1
+	0.71% 	1.62% 	3.90% 	3.67% 	2.52% 	0.60% 	0.39%
+Attack Jewel 1
+Attack Boost 1
+		0.02% 	0.10% 	0.30% 		0.60% 	0.39%
+Defense Jewel 1
+Defense Boost 1
+	0.43% 	0.97% 	2.34% 	2.20% 	1.51%
+Vitality Jewel 1
+Health Boost 1
+	0.71% 	1.62% 	3.90% 	3.67% 	2.52%
+Recovery Jewel 1
+Recovery Speed 1
+	0.14% 	0.32% 	0.78% 	0.73% 	0.50%
+Fire Res Jewel 1
+Fire Resistance 1
+	2.74% 	2.10% 	0.32%
+Water Res Jewel 1
+Water Resistance 1
+	2.74% 	2.10% 	0.32%
+Ice Res Jewel 1
+Ice Resistance 1
+	2.74% 	2.10% 	0.32%
+Thunder Res Jewel 1
+Thunder Resistance 1
+	2.74% 	2.10% 	0.32%
+Dragon Res Jewel 1
+Dragon Resistance 1
+	2.74% 	2.10% 	0.32%
+Resistor Jewel 1
+Blight Resistance 1
+	0.71% 	1.62% 	3.90% 	3.67% 	2.52% 	0.60% 	0.39%
+Blaze Jewel 1
+Fire Attack 1
+	0.43% 	0.97% 	2.34% 	2.20% 	1.51%
+Stream Jewel 1
+Water Attack 1
+	0.43% 	0.97% 	2.34% 	2.20% 	1.51%
+Frost Jewel 1
+Ice Attack 1
+	0.43% 	0.97% 	2.34% 	2.20% 	1.51%
+Bolt Jewel 1
+Thunder Attack 1
+	0.43% 	0.97% 	2.34% 	2.20% 	1.51%
+Dragon Jewel 1
+Dragon Attack 1
+	0.43% 	0.97% 	2.34% 	2.20% 	1.51%
+Venom Jewel 1
+Poison Attack 1
+	0.71% 	1.62% 	3.90% 	3.67% 	2.52% 	0.60% 	0.39%
+Paralyzer Jewel 1
+Paralysis Attack 1
+		0.05% 	0.30% 	0.90% 		0.60% 	0.39%
+Sleep Jewel 1
+Sleep Attack 1
+		0.08% 	0.50% 	1.50% 		0.60% 	0.39%
+Blast Jewel 1
+Blast Attack 1
+		0.05% 	0.30% 	0.90% 		0.60% 	0.39%
+Poisoncoat Jewel 3
+Poison Functionality 1
+	0.71% 	1.62% 	3.90% 	3.67% 	2.52% 	0.60% 	0.39%
+Paracoat Jewel 3
+Para Functionality 1
+		0.05% 	0.30% 	0.90% 		0.60% 	0.39%
+Sleepcoat Jewel 3
+Sleep Functionality 1
+		0.08% 	0.50% 	1.50% 		0.60% 	0.39%
+Blastcoat Jewel 3
+Blast Functionality 1
+		0.08% 	0.50% 	1.50% 		0.60% 	0.39%
+Release Jewel 3
+Free Elem/Ammo Up 1
+			0.09% 	0.23% 		0.60% 	0.39%
+Expert Jewel 1
+Critical Eye 1
+	0.14% 	0.32% 	0.78% 	0.73% 	0.50% 	0.60% 	0.39%
+Critical Jewel 2
+Critical Boost 1
+			0.45% 	1.14% 		0.60% 	0.39%
+Tenderizer Jewel 2
+Weakness Exploit 1
+	0.14% 	0.32% 	0.78% 	0.73% 	0.50% 	0.60% 	0.39%
+Charger Jewel 2
+Focus 1
+			0.09% 	0.23% 		0.60% 	0.39%
+Handicraft Jewel 3
+Handicraft 1
+			0.09% 	0.23% 		0.60% 	0.39%
+Draw Jewel 2
+Critical Draw 1
+			0.09% 	0.23% 		0.60% 	0.39%
+Destroyer Jewel 2
+Partbreaker 1
+	0.14% 	0.32% 	0.78% 	0.73% 	0.50% 	0.60% 	0.39%
+KO Jewel 2
+Slugger 1
+	0.43% 	0.97% 	2.34% 	2.20% 	1.51% 	0.60% 	0.39%
+Drain Jewel 1
+Stamina Thief 1
+	0.43% 	0.97% 	2.34% 	2.20% 	1.51% 	0.60% 	0.39%
+Flight Jewel 2
+Airborne 1
+	4.57% 	3.49% 	0.54%
+Throttle Jewel 2
+Latent Power 1
+		0.08% 	0.50% 	1.50% 		0.60% 	0.39%
+Challenger Jewel 2
+Agitator 1
+		0.02% 	0.10% 	0.30% 		0.60% 	0.39%
+Flawless Jewel 2
+Peak Performance 1
+		0.08% 	0.50% 	1.50% 		0.60% 	0.39%
+Potential Jewel 2
+Heroics 1
+		0.08% 	0.50% 	1.50% 		0.60% 	0.39%
+Fortitude Jewel 1
+Fortify 1
+	4.57% 	3.49% 	0.54%
+Furor Jewel 2
+Resentment 1
+		0.02% 	0.10% 	0.30% 		0.60% 	0.39%
+Sonorous Jewel 1
+Horn Maestro 1
+	0.14% 	0.32% 	0.78% 	0.73% 	0.50%
+Magazine Jewel 2
+Capacity Boost 1
+		0.02% 	0.10% 	0.30% 		0.60% 	0.39%
+Trueshot Jewel 1
+Special Ammo Boost 1
+		0.02% 	0.10% 	0.30% 		0.60% 	0.39%
+Artillery Jewel 1
+Artillery 1
+			0.27% 	0.68% 		0.60% 	0.39%
+Heavy Artillery Jewel 1
+Heavy Artillery 1
+	2.74% 	2.10% 	0.32%
+Sprinter Jewel 2
+Marathon Runner 1
+			0.09% 	0.23% 		0.60% 	0.39%
+Physique Jewel 2
+Constitution 1
+	0.14% 	0.32% 	0.78% 	0.73% 	0.50% 	0.60% 	0.39%
+Refresh Jewel 2
+Stamina Surge 1
+		0.02% 	0.10% 	0.30% 		0.60% 	0.39%
+Hungerless Jewel 1
+Hunger Resistance 1
+	0.91% 	0.70% 	0.11%
+Evasion Jewel 2
+Evade Window 1
+	0.14% 	0.32% 	0.78% 	0.73% 	0.50% 	0.60% 	0.39%
+Jumping Jewel 2
+Evade Extender 1
+	0.14% 	0.32% 	0.78% 	0.73% 	0.50% 	0.60% 	0.39%
+Ironwall Jewel 1
+Guard 1
+		0.02% 	0.10% 	0.30% 		1.19% 	0.77%
+Sheath Jewel 1
+Quick Sheath 1
+	0.14% 	0.32% 	0.78% 	0.73% 	0.50% 	0.60% 	0.39%
+Friendship Jewel 1
+Wide-Range 1
+	0.43% 	0.97% 	2.34% 	2.20% 	1.51% 	0.60% 	0.39%
+Enduring Jewel 1
+Item Prolonger 1
+	0.71% 	1.62% 	3.90% 	3.67% 	2.52%
+Satiated Jewel 1
+Free Meal 1
+	0.91% 	0.70% 	0.11% 			0.60% 	0.39%
+Gobbler Jewel 1
+Speed Eating 1
+	0.71% 	1.62% 	3.90% 	3.67% 	2.52%
+Grinder Jewel 1
+Speed Sharpening 1
+	0.43% 	0.97% 	2.34% 	2.20% 	1.51% 	0.60% 	0.39%
+Bomber Jewel 1
+Bombardier 1
+	0.43% 	0.97% 	2.34% 	2.20% 	1.51% 	0.60% 	0.39%
+Fungiform Jewel 1
+Mushroomancer 1
+			0.09% 	0.23% 		0.60% 	0.39%
+Protection Jewel 1
+Divine Blessing 1
+	0.91% 	0.70% 	0.11% 			0.60% 	0.39%
+Meowster Jewel 1
+Palico Rally 1
+	4.57% 	3.49% 	0.54%
+Botany Jewel 1
+Botanist 1
+	2.74% 	2.10% 	0.32%
+Geology Jewel 1
+Geologist 1
+	2.74% 	2.10% 	0.32%
+Mighty Jewel 2
+Maximum Might 1
+		0.05% 	0.30% 	0.90% 		0.60% 	0.39%
+Stonethrower Jewel 1
+Invalid Message 1
+	0.43% 	0.97% 	2.34% 	2.20% 	1.51% 	0.60% 	0.39%
+Tip Toe Jewel 1
+Stealth 1
+	2.74% 	2.10% 	0.32%
+Brace Jewel 3
+Flinch Free 1
+	0.71% 	1.62% 	3.90% 	3.67% 	2.52% 	0.60% 	0.39%
+Smoke Jewel 1
+Survival Expert 1
+	2.74% 	2.10% 	0.32%
+Mirewalker Jewel 1
+Aquatic/Polar Mobility 1
+	0.91% 	0.70% 	0.11%
+Specimen Jewel 1
+Entomologist 1
+	4.57% 	3.49% 	0.54%
+Scent Jewel 1
+Scenthound 1
+	2.74% 	2.10% 	0.32%
+Intimidator Jewel 1
+Intimidator 1
+	0.91% 	0.70% 	0.11%
+Slider Jewel 2
+Affinity Sliding 1
+	0.43% 	0.97% 	2.34% 	2.20% 	1.51%
+Medicine Jewel 1
+Recovery Up 1
+	0.43% 	0.97% 	2.34% 	2.20% 	1.51%
+Forceshot Jewel 3
+Normal Shots 1
+		0.02% 	0.10% 	0.30% 		0.60% 	0.39%
+Pierce Jewel 3
+Piercing Shots 1
+			0.09% 	0.23% 		0.60% 	0.39%
+Spread Jewel 3
+Spread/Power Shots 1
+			0.27% 	0.68% 		0.60% 	0.39%
+Enhancer Jewel 2
+Power Prolonger 1
+		0.05% 	0.30% 	0.90% 		0.60% 	0.39%
+Crisis Jewel 1
+Resuscitate 1
+	4.57% 	3.49% 	0.54%
+Dragonseal Jewel 3
+Elderseal Boost 1
+		0.05% 	0.30% 	0.90%
+Maintenance Jewel 1
+Tool Specialist 1
+	0.91% 	0.70% 	0.11%
+Mighty Bow Jewel 2
+Bow Charge Plus 1
+			0.27% 	0.68%
+Mind's Eye Jewel 2
+Mind's Eye/Ballistics 1
+			0.09% 	0.23%
+Shield Jewel 2
+Guard Up 1
+		0.02% 	0.10% 	0.30%
+Sharp Jewel 2
+Protective Polish 1
+		0.05% 	0.30% 	0.90%
+Elementless Jewel 2
+Non-elemental Boost 1
+	0.43% 	0.97% 	2.34% 	2.20% 	1.51%
+Miasma Jewel 1
+Effluvia Resistance 1
+	2.74% 	2.10% 	0.32%
+Phoenix Jewel 3
+Coalescence 1
+						0.60% 	0.39%
+Guardian Jewel 2
+Offensive Guard 1
+						1.19% 	0.77%
+Cooling Jewel 2
+Heat Guard 1
+						0.60% 	0.39%
+Fire Res Jewel+ 4
+Fire Resistance 2
+					0.65% 	0.41%
+Water Res Jewel+ 4
+Water Resistance 2
+					0.65% 	0.41%
+Ice Res Jewel+ 4
+Ice Resistance 2
+
+Thunder Res Jewel+ 4
+Thunder Resistance 2
+					0.65% 	0.41%
+Dragon Res Jewel+ 4
+Dragon Resistance 2
+					0.65% 	0.41%
+Blaze Jewel+ 4
+Fire Attack 2
+					0.28% 	0.75% 	1.11%
+Stream Jewel+ 4
+Water Attack 2
+					0.28% 	0.75% 	1.11%
+Frost Jewel+ 4
+Ice Attack 2
+					0.28% 	0.75% 	1.11%
+Bolt Jewel+ 4
+Thunder Attack 2
+					0.28% 	0.75% 	1.11%
+Dragon Jewel+ 4
+Dragon Attack 2
+					0.28% 	0.75% 	1.11%
+Venom Jewel+ 4
+Poison Attack 2
+					0.19% 	0.50% 	0.74%
+Paralyzer Jewel+ 4
+Paralysis Attack 2
+					0.19% 	0.50% 	0.74%
+Sleep Jewel+ 4
+Sleep Attack 2
+					0.19% 	0.50% 	0.74%
+Blast Jewel+ 4
+Blast Attack 2
+					0.19% 	0.50% 	0.74%
+Hard Fire Res Jewel 4
+Fire Resistance 3
+						0.09% 	0.22%
+Hard Water Res Jewel 4
+Water Resistance 3
+						0.09% 	0.22%
+Hard Ice Res Jewel 4
+Ice Resistance 3
+						0.09% 	0.22%
+Hard Thunder Res Jewel 4
+Thunder Resistance 3
+						0.09% 	0.22%
+Hard Dragon Res Jewel 4
+Dragon Resistance 3
+						0.09% 	0.22%
+Antidote Jewel+ 4
+Poison Resistance 2
+
+Antipara Jewel+ 4
+Paralysis Resistance 2
+
+Pep Jewel+ 4
+Sleep Resistance 2
+					0.65% 	0.41%
+Steadfast Jewel+ 4
+Stun Resistance 2
+					0.65% 	0.41%
+Antiblast Jewel+ 4
+Blast Resistance 2
+					0.65% 	0.41%
+Suture Jewel+ 4
+Bleeding Resistance 2
+					0.65% 	0.41%
+Def Lock Jewel+ 4
+Iron Skin 2
+					0.65% 	0.41%
+Miasma Jewel+ 4
+Effluvia Resistance 2
+					0.65% 	0.41%
+Hungerless Jewel+ 4
+Hunger Resistance 2
+					0.65% 	0.41%
+Recovery Jewel+ 4
+Recovery Speed 2
+					0.65% 	0.41%
+Tip Toe Jewel+ 4
+Stealth 2
+					0.65% 	0.41%
+Intimidator Jewel+ 4
+Intimidator 2
+					0.65% 	0.41%
+Meowster Jewel+ 4
+Palico Rally 2
+					0.65% 	0.41%
+Hard Tip Toe Jewel 4
+Stealth 3
+					0.65% 	0.41%
+Hard Intimidator Jewel 4
+Intimidator 3
+					0.65% 	0.41%
+Hard Meowster Jewel 4
+Palico Rally 3
+					0.65% 	0.41%
+Trueshot Jewel+ 4
+Special Ammo Boost 2
+							0.10%
+Heavy Artillery Jewel+ 4
+Heavy Artillery 2
+					0.65% 	0.41%
+Botany Jewel+ 4
+Botanist 2
+					0.65% 	0.41%
+Geology Jewel+ 4
+Geologist 2
+					0.65% 	0.41%
+Survival Jewel+ 4
+Survival Expert 2
+					0.65% 	0.41%
+Mirewalker Jewel+ 4
+Aquatic/Polar Mobility 2
+
+Specimen Jewel+ 4
+Entomologist 2
+					0.65% 	0.41%
+Sonorous Jewel+ 4
+Horn Maestro 2
+					0.65% 	0.41%
+Hard Botany Jewel+ 4
+Botanist 4
+						0.09% 	0.22%
+Hard Geology Jewel 4
+Geologist 3
+						0.09% 	0.22%
+Hard Survival Jewel 4
+Survival Expert 3
+						0.09% 	0.22%
+Hard Specimen Jewel 4
+Entomologist 3
+						0.09% 	0.22%
+Enduring Jewel+ 4
+Item Prolonger 2
+					0.65% 	0.41%
+Defense Jewel+ 4
+Defense Boost 2
+					0.65% 	0.41%
+Hard Enduring Jewel 4
+Item Prolonger 3
+						0.09% 	0.22%
+Hard Defense Jewel 4
+Defense Boost 3
+					0.09% 	0.25% 	0.37%
+Artillery Jewel+ 4
+Artillery 2
+					0.65% 	0.41%
+Earplug Jewel+ 4
+Earplugs 2
+							0.10%
+Wind Resist Jewel+ 4
+Windproof 2
+							0.10%
+Attack Jewel+ 4
+Attack Boost 2
+							0.10%
+Expert Jewel+ 4
+Critical Eye 2
+							0.10%
+Handicraft Jewel+ 4
+Handicraft 2
+							0.10%
+Throttle Jewel+ 4
+Latent Power 2
+						0.09% 	0.22%
+Challenger Jewel+ 4
+Agitator 2
+						0.09% 	0.22%
+Potential Jewel+ 4
+Heroics 2
+						0.09% 	0.22%
+Furor Jewel+ 4
+Resentment 2
+						0.09% 	0.22%
+Physique Jewel+ 4
+Constitution 2
+					0.09% 	0.25% 	0.37%
+Evasion Jewel+ 4
+Evade Window 2
+						0.09% 	0.22%
+Ironwall Jewel+ 4
+Guard 2
+					0.09% 	0.25% 	0.37%
+Friendship Jewel+ 4
+Wide-Range 2
+					0.09% 	0.25% 	0.37%
+Drain/Physique Jewel 4
+Stamina Thief 1
+Constitution 1
+					0.09% 	0.25% 	0.37%
+Fortitude/Physique Jewel 4
+Fortify 1
+Constitution 1
+					0.65% 	0.41%
+Crisis/Physique Jewel 4
+Resuscitate 1
+Constitution 1
+					0.65% 	0.41%
+Ironwall/Physique Jewel 4
+Guard 1
+Constitution 1
+					0.09% 	0.25% 	0.37%
+Friendship/Physique Jewel 4
+Wide-Range 1
+Constitution 1
+					0.09% 	0.25% 	0.37%
+Satiated/Physique Jewel 4
+Free Meal 1
+Constitution 1
+					0.65% 	0.41%
+Stonethrower/Physique Jewel 4
+Invalid Message 1
+Constitution 1
+					0.65% 	0.41%
+Resistor/Physique Jewel 4
+Blight Resistance 1
+Constitution 1
+					0.09% 	0.25% 	0.37%
+Flight/Physique Jewel 4
+Airborne 1
+Constitution 1
+					0.09% 	0.25% 	0.37%
+Sprinter/Physique Jewel 4
+Marathon Runner 1
+Constitution 1
+					0.09% 	0.25% 	0.37%
+Refresh/Physique Jewel 4
+Stamina Surge 1
+Constitution 1
+					0.09% 	0.25% 	0.37%
+Jumping/Physique Jewel 4
+Evade Extender 1
+Constitution 1
+					0.09% 	0.25% 	0.37%
+Sheath/Physique Jewel 4
+Quick Sheath 1
+Constitution 1
+					0.09% 	0.25% 	0.37%
+Gobbler/Physique Jewel 4
+Speed Eating 1
+Constitution 1
+					0.09% 	0.25% 	0.37%
+Grinder/Physique Jewel 4
+Speed Sharpening 1
+Constitution 1
+					0.09% 	0.25% 	0.37%
+Bomber/Physique Jewel 4
+Bombardier 1
+Constitution 1
+					0.09% 	0.25% 	0.37%
+Fungiform/Physique Jewel 4
+Mushroomancer 1
+Constitution 1
+					0.09% 	0.25% 	0.37%
+Slider/Physique Jewel 4
+Affinity Sliding 1
+Constitution 1
+					0.65% 	0.41%
+Guardian/Physique Jewel 4
+Offensive Guard 1
+Constitution 1
+					0.65% 	0.41%
+Drain/Evasion Jewel 4
+Stamina Thief 1
+Evade Window 1
+					0.09% 	0.25% 	0.37%
+Fortitude/Evasion Jewel 4
+Fortify 1
+Evade Window 1
+					0.65% 	0.41%
+Crisis/Evasion Jewel 4
+Resuscitate 1
+Evade Window 1
+					0.65% 	0.41%
+Ironwall/Evasion Jewel 4
+Guard 1
+Evade Window 1
+					0.09% 	0.25% 	0.37%
+Friendship/Evasion Jewel 4
+Wide-Range 1
+Evade Window 1
+					0.09% 	0.25% 	0.37%
+Satiated/Evasion Jewel 4
+Free Meal 1
+Evade Window 1
+					0.65% 	0.41%
+Stonethrower/Evasion Jewel 4
+Invalid Message 1
+Evade Window 1
+					0.65% 	0.41%
+Resistor/Evasion Jewel 4
+Blight Resistance 1
+Evade Window 1
+					0.09% 	0.25% 	0.37%
+Flight/Evasion Jewel 4
+Airborne 1
+Evade Window 1
+					0.09% 	0.25% 	0.37%
+Sprinter/Evasion Jewel 4
+Marathon Runner 1
+Evade Window 1
+					0.09% 	0.25% 	0.37%
+Refresh/Evasion Jewel 4
+Stamina Surge 1
+Evade Window 1
+					0.09% 	0.25% 	0.37%
+Jumping/Evasion Jewel 4
+Evade Extender 1
+Evade Window 1
+					0.09% 	0.25% 	0.37%
+Sheath/Evasion Jewel 4
+Quick Sheath 1
+Evade Window 1
+					0.09% 	0.25% 	0.37%
+Gobbler/Evasion Jewel 4
+Speed Eating 1
+Evade Window 1
+					0.09% 	0.25% 	0.37%
+Grinder/Evasion Jewel 4
+Speed Sharpening 1
+Evade Window 1
+					0.09% 	0.25% 	0.37%
+Bomber/Evasion Jewel 4
+Bombardier 1
+Evade Window 1
+					0.09% 	0.25% 	0.37%
+Fungiform/Evasion Jewel 4
+Mushroomancer 1
+Evade Window 1
+					0.09% 	0.25% 	0.37%
+Slider/Evasion Jewel 4
+Affinity Sliding 1
+Evade Window 1
+					0.65% 	0.41%
+Guardian/Evasion Jewel 4
+Offensive Guard 1
+Evade Window 1
+					0.65% 	0.41%
+Drain/Attack Jewel 4
+Stamina Thief 1
+Attack Boost 1
+					0.09% 	0.25% 	0.37%
+Fortitude/Attack Jewel 4
+Fortify 1
+Attack Boost 1
+					0.65% 	0.41%
+Crisis/Attack Jewel 4
+Resuscitate 1
+Attack Boost 1
+					0.65% 	0.41%
+Ironwall/Attack Jewel 4
+Guard 1
+Attack Boost 1
+					0.09% 	0.25% 	0.37%
+Friendship/Attack Jewel 4
+Wide-Range 1
+Attack Boost 1
+					0.09% 	0.25% 	0.37%
+Satiated/Attack Jewel 4
+Free Meal 1
+Attack Boost 1
+					0.65% 	0.41%
+Stonethrower/Attack Jewel 4
+Invalid Message 1
+Attack Boost 1
+					0.65% 	0.41%
+Resistor/Attack Jewel 4
+Blight Resistance 1
+Attack Boost 1
+					0.09% 	0.25% 	0.37%
+Flight/Attack Jewel 4
+Airborne 1
+Attack Boost 1
+					0.09% 	0.25% 	0.37%
+Sprinter/Attack Jewel 4
+Marathon Runner 1
+Attack Boost 1
+					0.09% 	0.25% 	0.37%
+Refresh/Attack Jewel 4
+Stamina Surge 1
+Attack Boost 1
+					0.09% 	0.25% 	0.37%
+Jumping/Attack Jewel 4
+Evade Extender 1
+Attack Boost 1
+					0.09% 	0.25% 	0.37%
+Sheath/Attack Jewel 4
+Quick Sheath 1
+Attack Boost 1
+					0.09% 	0.25% 	0.37%
+Gobbler/Attack Jewel 4
+Speed Eating 1
+Attack Boost 1
+					0.09% 	0.25% 	0.37%
+Grinder/Attack Jewel 4
+Speed Sharpening 1
+Attack Boost 1
+					0.09% 	0.25% 	0.37%
+Bomber/Attack Jewel 4
+Bombardier 1
+Attack Boost 1
+					0.09% 	0.25% 	0.37%
+Fungiform/Attack Jewel 4
+Mushroomancer 1
+Attack Boost 1
+					0.09% 	0.25% 	0.37%
+Slider/Attack Jewel 4
+Affinity Sliding 1
+Attack Boost 1
+					0.65% 	0.41%
+Guardian/Attack Jewel 4
+Offensive Guard 1
+Attack Boost 1
+					0.65% 	0.41%
+Drain/Expert Jewel 4
+Stamina Thief 1
+Critical Eye 1
+					0.09% 	0.25% 	0.37%
+Fortitude/Expert Jewel 4
+Fortify 1
+Critical Eye 1
+					0.65% 	0.41%
+Crisis/Expert Jewel 4
+Resuscitate 1
+Critical Eye 1
+					0.65% 	0.41%
+Ironwall/Expert Jewel 4
+Guard 1
+Critical Eye 1
+					0.09% 	0.25% 	0.37%
+Friendship/Expert Jewel 4
+Wide-Range 1
+Critical Eye 1
+					0.09% 	0.25% 	0.37%
+Satiated/Expert Jewel 4
+Free Meal 1
+Critical Eye 1
+					0.65% 	0.41%
+Stonethrower/Expert Jewel 4
+Invalid Message 1
+Critical Eye 1
+					0.65% 	0.41%
+Resistor/Expert Jewel 4
+Blight Resistance 1
+Critical Eye 1
+					0.09% 	0.25% 	0.37%
+Flight/Expert Jewel 4
+Airborne 1
+Critical Eye 1
+					0.09% 	0.25% 	0.37%
+Sprinter/Expert Jewel 4
+Marathon Runner 1
+Critical Eye 1
+					0.09% 	0.25% 	0.37%
+Refresh/Expert Jewel 4
+Stamina Surge 1
+Critical Eye 1
+					0.09% 	0.25% 	0.37%
+Jumping/Expert Jewel 4
+Evade Extender 1
+Critical Eye 1
+					0.09% 	0.25% 	0.37%
+Sheath/Expert Jewel 4
+Quick Sheath 1
+Critical Eye 1
+					0.09% 	0.25% 	0.37%
+Gobbler/Expert Jewel 4
+Speed Eating 1
+Critical Eye 1
+					0.09% 	0.25% 	0.37%
+Grinder/Expert Jewel 4
+Speed Sharpening 1
+Critical Eye 1
+					0.09% 	0.25% 	0.37%
+Bomber/Expert Jewel 4
+Bombardier 1
+Critical Eye 1
+					0.09% 	0.25% 	0.37%
+Fungiform/Expert Jewel 4
+Mushroomancer 1
+Critical Eye 1
+					0.09% 	0.25% 	0.37%
+Slider/Expert Jewel 4
+Affinity Sliding 1
+Critical Eye 1
+					0.65% 	0.41%
+Guardian/Expert Jewel 4
+Offensive Guard 1
+Critical Eye 1
+					0.65% 	0.41%
+Drain/Release Jewel 4
+Stamina Thief 1
+Free Elem/Ammo Up 1
+						0.09% 	0.22%
+Fortitude/Release Jewel 4
+Fortify 1
+Free Elem/Ammo Up 1
+					0.09% 	0.25% 	0.37%
+Crisis/Release Jewel 4
+Resuscitate 1
+Free Elem/Ammo Up 1
+					0.09% 	0.25% 	0.37%
+Ironwall/Release Jewel 4
+Guard 1
+Free Elem/Ammo Up 1
+						0.09% 	0.22%
+Friendship/Release Jewel 4
+Wide-Range 1
+Free Elem/Ammo Up 1
+						0.09% 	0.22%
+Satiated/Release Jewel 4
+Free Meal 1
+Free Elem/Ammo Up 1
+					0.09% 	0.25% 	0.37%
+Stonethrower/Release Jewel 4
+Invalid Message 1
+Free Elem/Ammo Up 1
+					0.09% 	0.25% 	0.37%
+Resistor/Release Jewel 4
+Blight Resistance 1
+Free Elem/Ammo Up 1
+						0.09% 	0.22%
+Flight/Release Jewel 4
+Airborne 1
+Free Elem/Ammo Up 1
+						0.09% 	0.22%
+Sprinter/Release Jewel 4
+Marathon Runner 1
+Free Elem/Ammo Up 1
+						0.09% 	0.22%
+Refresh/Release Jewel 4
+Stamina Surge 1
+Free Elem/Ammo Up 1
+						0.09% 	0.22%
+Jumping/Release Jewel 4
+Evade Extender 1
+Free Elem/Ammo Up 1
+						0.09% 	0.22%
+Sheath/Release Jewel 4
+Quick Sheath 1
+Free Elem/Ammo Up 1
+						0.09% 	0.22%
+Gobbler/Release Jewel 4
+Speed Eating 1
+Free Elem/Ammo Up 1
+						0.09% 	0.22%
+Grinder/Release Jewel 4
+Speed Sharpening 1
+Free Elem/Ammo Up 1
+						0.09% 	0.22%
+Bomber/Release Jewel 4
+Bombardier 1
+Free Elem/Ammo Up 1
+						0.09% 	0.22%
+Fungiform/Release Jewel 4
+Mushroomancer 1
+Free Elem/Ammo Up 1
+						0.09% 	0.22%
+Slider/Release Jewel 4
+Affinity Sliding 1
+Free Elem/Ammo Up 1
+					0.09% 	0.25% 	0.37%
+Guardian/Release Jewel 4
+Offensive Guard 1
+Free Elem/Ammo Up 1
+					0.09% 	0.25% 	0.37%
+Drain/Handicraft Jewel 4
+Stamina Thief 1
+Handicraft 1
+						0.09% 	0.22%
+Fortitude/Handicraft Jewel 4
+Fortify 1
+Handicraft 1
+					0.09% 	0.25% 	0.37%
+Crisis/Handicraft Jewel 4
+Resuscitate 1
+Handicraft 1
+					0.09% 	0.25% 	0.37%
+Ironwall/Handicraft Jewel 4
+Guard 1
+Handicraft 1
+						0.09% 	0.22%
+Friendship/Handicraft Jewel 4
+Wide-Range 1
+Handicraft 1
+						0.09% 	0.22%
+Satiated/Handicraft Jewel 4
+Free Meal 1
+Handicraft 1
+					0.09% 	0.25% 	0.37%
+Stonethrower/Handicraft Jewel 4
+Invalid Message 1
+Handicraft 1
+					0.09% 	0.25% 	0.37%
+Resistor/Handicraft Jewel 4
+Blight Resistance 1
+Handicraft 1
+						0.09% 	0.22%
+Flight/Handicraft Jewel 4
+Airborne 1
+Handicraft 1
+						0.09% 	0.22%
+Sprinter/Handicraft Jewel 4
+Marathon Runner 1
+Handicraft 1
+						0.09% 	0.22%
+Refresh/Handicraft Jewel 4
+Stamina Surge 1
+Handicraft 1
+						0.09% 	0.22%
+Jumping/Handicraft Jewel 4
+Evade Extender 1
+Handicraft 1
+						0.09% 	0.22%
+Sheath/Handicraft Jewel 4
+Quick Sheath 1
+Handicraft 1
+						0.09% 	0.22%
+Gobbler/Handicraft Jewel 4
+Speed Eating 1
+Handicraft 1
+						0.09% 	0.22%
+Grinder/Handicraft Jewel 4
+Speed Sharpening 1
+Handicraft 1
+						0.09% 	0.22%
+Bomber/Handicraft Jewel 4
+Bombardier 1
+Handicraft 1
+						0.09% 	0.22%
+Fungiform/Handicraft Jewel 4
+Mushroomancer 1
+Handicraft 1
+						0.09% 	0.22%
+Slider/Handicraft Jewel 4
+Affinity Sliding 1
+Handicraft 1
+					0.09% 	0.25% 	0.37%
+Guardian/Handicraft Jewel 4
+Offensive Guard 1
+Handicraft 1
+					0.09% 	0.25% 	0.37%
+Footing/Protection Jewel 4
+Tremor Resistance 1
+Divine Blessing 1
+					0.09% 	0.25% 	0.37%
+Charger/Protection Jewel 4
+Focus 1
+Divine Blessing 1
+					0.09% 	0.25% 	0.37%
+Enhancer/Protection Jewel 4
+Power Prolonger 1
+Divine Blessing 1
+					0.09% 	0.25% 	0.37%
+Destroyer/Protection Jewel 4
+Partbreaker 1
+Divine Blessing 1
+					0.09% 	0.25% 	0.37%
+KO/Protection Jewel 4
+Slugger 1
+Divine Blessing 1
+					0.09% 	0.25% 	0.37%
+Potential/Protection Jewel 4
+Heroics 1
+Divine Blessing 1
+					0.09% 	0.25% 	0.37%
+Wind Resist/Protection Jewel 4
+Windproof 1
+Divine Blessing 1
+					0.09% 	0.25% 	0.37%
+Draw/Protection Jewel 4
+Critical Draw 1
+Divine Blessing 1
+					0.09% 	0.25% 	0.37%
+Throttle/Protection Jewel 4
+Latent Power 1
+Divine Blessing 1
+					0.09% 	0.25% 	0.37%
+Challenger/Protection Jewel 4
+Agitator 1
+Divine Blessing 1
+					0.09% 	0.25% 	0.37%
+Flawless/Protection Jewel 4
+Peak Performance 1
+Divine Blessing 1
+					0.09% 	0.25% 	0.37%
+Furor/Protection Jewel 4
+Resentment 1
+Divine Blessing 1
+					0.09% 	0.25% 	0.37%
+Mighty/Protection Jewel 4
+Maximum Might 1
+Divine Blessing 1
+					0.09% 	0.25% 	0.37%
+Brace/Protection Jewel 4
+Flinch Free 1
+Divine Blessing 1
+					0.09% 	0.25% 	0.37%
+Phoenix/Protection Jewel 4
+Coalescence 1
+Divine Blessing 1
+						0.09% 	0.22%
+Earplug/Protection Jewel 4
+Earplugs 1
+Divine Blessing 1
+						0.09% 	0.22%
+Critical/Protection Jewel 4
+Critical Boost 1
+Divine Blessing 1
+						0.09% 	0.22%
+Tenderizer/Protection Jewel 4
+Weakness Exploit 1
+Divine Blessing 1
+						0.09% 	0.22%
+Handicraft/Protection Jewel 4
+Handicraft 1
+Divine Blessing 1
+						0.09% 	0.22%
+Release/Protection Jewel 4
+Free Elem/Ammo Up 1
+Divine Blessing 1
+					0.09% 	0.25% 	0.37%
+Footing/Medicine Jewel 4
+Tremor Resistance 1
+Recovery Up 1
+					0.09% 	0.25% 	0.37%
+Charger/Medicine Jewel 4
+Focus 1
+Recovery Up 1
+					0.09% 	0.25% 	0.37%
+Enhancer/Medicine Jewel 4
+Power Prolonger 1
+Recovery Up 1
+					0.09% 	0.25% 	0.37%
+Destroyer/Medicine Jewel 4
+Partbreaker 1
+Recovery Up 1
+					0.09% 	0.25% 	0.37%
+KO/Medicine Jewel 4
+Slugger 1
+Recovery Up 1
+					0.09% 	0.25% 	0.37%
+Potential/Medicine Jewel 4
+Heroics 1
+Recovery Up 1
+					0.09% 	0.25% 	0.37%
+Wind Resist/Medicine Jewel 4
+Windproof 1
+Recovery Up 1
+					0.09% 	0.25% 	0.37%
+Draw/Medicine Jewel 4
+Critical Draw 1
+Recovery Up 1
+					0.09% 	0.25% 	0.37%
+Throttle/Medicine Jewel 4
+Latent Power 1
+Recovery Up 1
+					0.09% 	0.25% 	0.37%
+Challenger/Medicine Jewel 4
+Agitator 1
+Recovery Up 1
+					0.09% 	0.25% 	0.37%
+Flawless/Medicine Jewel 4
+Peak Performance 1
+Recovery Up 1
+					0.09% 	0.25% 	0.37%
+Furor/Medicine Jewel 4
+Resentment 1
+Recovery Up 1
+					0.09% 	0.25% 	0.37%
+Mighty/Medicine Jewel 4
+Maximum Might 1
+Recovery Up 1
+					0.09% 	0.25% 	0.37%
+Brace/Medicine Jewel 4
+Flinch Free 1
+Recovery Up 1
+					0.09% 	0.25% 	0.37%
+Phoenix/Medicine Jewel 4
+Coalescence 1
+Recovery Up 1
+						0.09% 	0.22%
+Earplug/Medicine Jewel 4
+Earplugs 1
+Recovery Up 1
+						0.09% 	0.22%
+Critical/Medicine Jewel 4
+Critical Boost 1
+Recovery Up 1
+						0.09% 	0.22%
+Tenderizer/Medicine Jewel 4
+Weakness Exploit 1
+Recovery Up 1
+						0.09% 	0.22%
+Handicraft/Medicine Jewel 4
+Handicraft 1
+Recovery Up 1
+						0.09% 	0.22%
+Release/Medicine Jewel 4
+Free Elem/Ammo Up 1
+Recovery Up 1
+						0.09% 	0.22%
+Footing/Vitality Jewel 4
+Tremor Resistance 1
+Health Boost 1
+					0.09% 	0.25% 	0.37%
+Charger/Vitality Jewel 4
+Focus 1
+Health Boost 1
+					0.09% 	0.25% 	0.37%
+Enhancer/Vitality Jewel 4
+Power Prolonger 1
+Health Boost 1
+					0.09% 	0.25% 	0.37%
+Destroyer/Vitality Jewel 4
+Partbreaker 1
+Health Boost 1
+					0.09% 	0.25% 	0.37%
+KO/Vitality Jewel 4
+Slugger 1
+Health Boost 1
+					0.09% 	0.25% 	0.37%
+Potential/Vitality Jewel 4
+Heroics 1
+Health Boost 1
+					0.09% 	0.25% 	0.37%
+Wind Resist/Vitality Jewel 4
+Windproof 1
+Health Boost 1
+					0.09% 	0.25% 	0.37%
+Draw/Vitality Jewel 4
+Critical Draw 1
+Health Boost 1
+					0.09% 	0.25% 	0.37%
+Throttle/Vitality Jewel 4
+Latent Power 1
+Health Boost 1
+					0.09% 	0.25% 	0.37%
+Challenger/Vitality Jewel 4
+Agitator 1
+Health Boost 1
+					0.09% 	0.25% 	0.37%
+Flawless/Vitality Jewel 4
+Peak Performance 1
+Health Boost 1
+					0.09% 	0.25% 	0.37%
+Furor/Vitality Jewel 4
+Resentment 1
+Health Boost 1
+					0.09% 	0.25% 	0.37%
+Mighty/Vitality Jewel 4
+Maximum Might 1
+Health Boost 1
+					0.09% 	0.25% 	0.37%
+Brace/Vitality Jewel 4
+Flinch Free 1
+Health Boost 1
+					0.09% 	0.25% 	0.37%
+Phoenix/Vitality Jewel 4
+Coalescence 1
+Health Boost 1
+						0.09% 	0.22%
+Earplug/Vitality Jewel 4
+Earplugs 1
+Health Boost 1
+						0.09% 	0.22%
+Critical/Vitality Jewel 4
+Critical Boost 1
+Health Boost 1
+						0.09% 	0.22%
+Tenderizer/Vitality Jewel 4
+Weakness Exploit 1
+Health Boost 1
+						0.09% 	0.22%
+Handicraft/Vitality Jewel 4
+Handicraft 1
+Health Boost 1
+						0.09% 	0.22%
+Release/Vitality Jewel 4
+Free Elem/Ammo Up 1
+Health Boost 1
+						0.09% 	0.22%
+Footing/Maintenance Jewel 4
+Tremor Resistance 1
+Tool Specialist 1
+					0.09% 	0.25% 	0.37%
+Charger/Maintenance Jewel 4
+Focus 1
+Tool Specialist 1
+					0.09% 	0.25% 	0.37%
+Enhancer/Maintenance Jewel 4
+Power Prolonger 1
+Tool Specialist 1
+					0.09% 	0.25% 	0.37%
+Destroyer/Maintenance Jewel 4
+Partbreaker 1
+Tool Specialist 1
+					0.09% 	0.25% 	0.37%
+KO/Maintenance Jewel 4
+Slugger 1
+Tool Specialist 1
+					0.09% 	0.25% 	0.37%
+Potential/Maintenance Jewel 4
+Heroics 1
+Tool Specialist 1
+					0.09% 	0.25% 	0.37%
+Wind Resist/Maintenance Jewel 4
+Windproof 1
+Tool Specialist 1
+					0.09% 	0.25% 	0.37%
+Draw/Maintenance Jewel 4
+Critical Draw 1
+Tool Specialist 1
+					0.09% 	0.25% 	0.37%
+Throttle/Maintenance Jewel 4
+Latent Power 1
+Tool Specialist 1
+					0.09% 	0.25% 	0.37%
+Challenger/Maintenance Jewel 4
+Agitator 1
+Tool Specialist 1
+					0.09% 	0.25% 	0.37%
+Flawless/Maintenance Jewel 4
+Peak Performance 1
+Tool Specialist 1
+					0.09% 	0.25% 	0.37%
+Furor/Maintenance Jewel 4
+Resentment 1
+Tool Specialist 1
+					0.09% 	0.25% 	0.37%
+Mighty/Maintenance Jewel 4
+Maximum Might 1
+Tool Specialist 1
+					0.09% 	0.25% 	0.37%
+Brace/Maintenance Jewel 4
+Flinch Free 1
+Tool Specialist 1
+					0.09% 	0.25% 	0.37%
+Phoenix/Maintenance Jewel 4
+Coalescence 1
+Tool Specialist 1
+						0.09% 	0.22%
+Earplug/Maintenance Jewel 4
+Earplugs 1
+Tool Specialist 1
+						0.09% 	0.22%
+Critical/Maintenance Jewel 4
+Critical Boost 1
+Tool Specialist 1
+						0.09% 	0.22%
+Tenderizer/Maintenance Jewel 4
+Weakness Exploit 1
+Tool Specialist 1
+						0.09% 	0.22%
+Handicraft/Maintenance Jewel 4
+Handicraft 1
+Tool Specialist 1
+						0.09% 	0.22%
+Release/Maintenance Jewel 4
+Free Elem/Ammo Up 1
+Tool Specialist 1
+						0.09% 	0.22%
+Footing/Physique Jewel 4
+Tremor Resistance 1
+Constitution 1
+						0.09% 	0.22%
+Charger/Physique Jewel 4
+Focus 1
+Constitution 1
+						0.09% 	0.22%
+Enhancer/Physique Jewel 4
+Power Prolonger 1
+Constitution 1
+						0.09% 	0.22%
+Destroyer/Physique Jewel 4
+Partbreaker 1
+Constitution 1
+						0.09% 	0.22%
+KO/Physique Jewel 4
+Slugger 1
+Constitution 1
+						0.09% 	0.22%
+Potential/Physique Jewel 4
+Heroics 1
+Constitution 1
+						0.09% 	0.22%
+Wind Resist/Physique Jewel 4
+Windproof 1
+Constitution 1
+						0.09% 	0.22%
+Draw/Physique Jewel 4
+Critical Draw 1
+Constitution 1
+						0.09% 	0.22%
+Throttle/Physique Jewel 4
+Latent Power 1
+Constitution 1
+						0.09% 	0.22%
+Challenger/Physique Jewel 4
+Agitator 1
+Constitution 1
+						0.09% 	0.22%
+Flawless/Physique Jewel 4
+Peak Performance 1
+Constitution 1
+						0.09% 	0.22%
+Furor/Physique Jewel 4
+Resentment 1
+Constitution 1
+						0.09% 	0.22%
+Mighty/Physique Jewel 4
+Maximum Might 1
+Constitution 1
+						0.09% 	0.22%
+Brace/Physique Jewel 4
+Flinch Free 1
+Constitution 1
+						0.09% 	0.22%
+Phoenix/Physique Jewel 4
+Coalescence 1
+Constitution 1
+							0.20%
+Earplug/Physique Jewel 4
+Earplugs 1
+Constitution 1
+							0.20%
+Critical/Physique Jewel 4
+Critical Boost 1
+Constitution 1
+							0.20%
+Tenderizer/Physique Jewel 4
+Weakness Exploit 1
+Constitution 1
+							0.20%
+Handicraft/Physique Jewel 4
+Handicraft 1
+Constitution 1
+							0.20%
+Release/Physique Jewel 4
+Free Elem/Ammo Up 1
+Constitution 1
+							0.20%
+Footing/Evasion Jewel 4
+Tremor Resistance 1
+Evade Window 1
+						0.09% 	0.22%
+Charger/Evasion Jewel 4
+Focus 1
+Evade Window 1
+						0.09% 	0.22%
+Enhancer/Evasion Jewel 4
+Power Prolonger 1
+Evade Window 1
+						0.09% 	0.22%
+Destroyer/Evasion Jewel 4
+Partbreaker 1
+Evade Window 1
+						0.09% 	0.22%
+KO/Evasion Jewel 4
+Slugger 1
+Evade Window 1
+						0.09% 	0.22%
+Potential/Evasion Jewel 4
+Heroics 1
+Evade Window 1
+						0.09% 	0.22%
+Wind Resist/Evasion Jewel 4
+Windproof 1
+Evade Window 1
+						0.09% 	0.22%
+Draw/Evasion Jewel 4
+Critical Draw 1
+Evade Window 1
+						0.09% 	0.22%
+Throttle/Evasion Jewel 4
+Latent Power 1
+Evade Window 1
+						0.09% 	0.22%
+Challenger/Evasion Jewel 4
+Agitator 1
+Evade Window 1
+						0.09% 	0.22%
+Flawless/Evasion Jewel 4
+Peak Performance 1
+Evade Window 1
+						0.09% 	0.22%
+Furor/Evasion Jewel 4
+Resentment 1
+Evade Window 1
+						0.09% 	0.22%
+Mighty/Evasion Jewel 4
+Maximum Might 1
+Evade Window 1
+						0.09% 	0.22%
+Brace/Evasion Jewel 4
+Flinch Free 1
+Evade Window 1
+						0.09% 	0.22%
+Phoenix/Evasion Jewel 4
+Coalescence 1
+Evade Window 1
+							0.20%
+Earplug/Evasion Jewel 4
+Earplugs 1
+Evade Window 1
+							0.20%
+Critical/Evasion Jewel 4
+Critical Boost 1
+Evade Window 1
+							0.20%
+Tenderizer/Evasion Jewel 4
+Weakness Exploit 1
+Evade Window 1
+							0.20%
+Handicraft/Evasion Jewel 4
+Handicraft 1
+Evade Window 1
+							0.20%
+Release/Evasion Jewel 4
+Free Elem/Ammo Up 1
+Evade Window 1
+							0.20%
