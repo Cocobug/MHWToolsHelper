@@ -1,1239 +1,285 @@
-artillery_charmArtillery Charm I 	artillery-skill-mhw-wiki Artillery +1 	1500
-x1 Anjanath Plate
-x2 Anjanath Fang
-x3 Warped Bone
-x1 Aquacore Ore
-  Artillery Charm II 	artillery-skill-mhw-wiki Artillery +2 	Anjanath Gem x1
-Anjanath Fang+ x2
-Novacrystal x1
-Spiritcore Ore x1
-  Artillery Charm III 	 artillery-skill-mhw-wikiArtillery +3 	Teostra Gem x1
-Teostra Horn+ x2
-Firecell Stone x1
-Dreamcore Ore x1
-3 	attack_charmAttack Charm I 	attack-boost-skill-mhw-wiki Attack Boost +1 	1500
-x4 Sturdy Bone
-x4 Boulder Bone
-x1 Lightcrystal
-x1 Aquacore Ore
-  attack_charmAttack Charm II 	attack-boost-skill-mhw-wiki Attack Boost +2 	1500
-Quality Bone x3
-Dragonbone Relic x1
-Novacrystal x1
-Spiritcore Ore x1
-  attack_charmAttack Charm III 	attack-boost-skill-mhw-wiki Attack Boost +3 	Elder Dragon Bone x2
-High Commendation x1
-Brutal Bone x2
-Dreamcore Ore x1
-  Attack Charm IV 	attack-boost-skill-mhw-wikiAttack Boost +4 	Annihilating Greathorn x3
-Diablos Hardhorn x1
-Large Elder Dragon Gem x1
-Phantomcore Ore x1
-5 	awakening_charmAwakening Charm I 	free-elem-ammo-up-skill-mhw-wiki Free Elem/Ammo Up  +1 	6000
-x1 Zorah Magdaros Gem
-x5 Zorah Magdaros Magma
-x4 Dragonvein Crystal
-x1 Aquacore Ore
-  Awakening Charm II 	free-elem-ammo-up-skill-mhw-wiki Free Elem/Ammo Up +2 	Kirin Azure Horn x1
-Kirin Thundertail x1
-Novacrystal x1
-Dreamcore Ore x1
-  Awakening Charm III 	free-elem-ammo-up-skill-mhw-wiki Free Elem/Ammo Up +3 	Tempered Kirin Horn x3
-Guiding Coral Dragonbone x1
-Great Spiritvein Gem x1
-Shadowcore Ore x1
-  Blast Charm I 	blast-resistance-skill-mhw-wiki Blast Resistance +1 	Dodogama Jaw x1
-Dodogama Talon x2
-Firecell Stone x1
-Spiritcore Ore x1
-  Blast Charm II 	blast-resistance-skill-mhw-wiki Blast Resistance +2 	Bazelgeuse Gem x1
-Bazelgeuse Talon x2
-Novacrystal x1
-Spiritcore Ore x1
-  Blast Charm III 	blast-resistance-skill-mhw-wiki Blast Resistance +3 	Teostra Gem x1
-Teostra Horn+ x2
-Firecell Stone x1
-Dreamcore Ore x1
-  Blast Coating Charm 	Blast Functionality +1 	Bazelgeuse Gem x1
-Bazelgeuse Tail x3
-Bazelgeuse Fuse x3
-Dragoncore Ore x1
-3 	blaze_charmBlaze Charm I 	fire-attack-skill-mhw-wiki Fire Attack +1 	1500
-x1 Anjanath Plate
-x2 Anjanath Fang
-x3 Warped Bone
-x1 Aquacore Ore
-  Blaze Charm II 	fire-attack-skill-mhw-wiki Fire Attack +2 	Lavasioth Fin+ x3
-Lavasioth Fang+ x2
-Earth Crystal x6
-Spiritcore Ore x1
-  Blaze Charm III 	fire-attack-skill-mhw-wiki Fire Attack +3 	Teostra Gem x1
-Teostra Horn+ x2
-Inferno Sac x3
-Dreamcore Ore x1
-  Blaze Charm IV
-
-fire-attack-skill-mhw-wikiFire Attack +4
-Anjanath Mantle x1
-Flickering Flamepelt x 4
-Fierce Dragonvein Bone x4
-Phantomcore Ore x1
-  Blaze Charm V
-
-fire-attack-skill-mhw-wikiFire Attack +5
-Tempered Red Scale x3
-Tempered Flamepelt x3
-Spiritvein Solidbone x4
-Phantomcore Ore x1
-4 	bleed_charmBleed Charm I 	bleeding-resistance-skill-mhw-wiki  Bleeding Resistance +1 	3000
-x1 Odogaron Plate
-x2 Odogaron Fang
-x4 Warped Bone
-x1 Aquacore Ore
-  Bleed Charm II 	bleeding-resistance-skill-mhw-wiki  Bleeding Resistance +2 	Odogaron Gem x1
-Odogaron Claw+ x2
-Novacrystal x1
-Spiritcore Ore x1
-  Bleed Charm III 	bleeding-resistance-skill-mhw-wiki  Bleeding Resistance +3 	Vaal Hazak Gem x1
-Vaal Hazak Talon x2
-Brutal Bone x2
-Dreamcore Ore x1
-3 	blessing_charmBlessing Charm I 	divine-blessing-skill-mhw-wiki Divine Blessing +1 	1500
-x2 Paolumu Webbing
-x3 Paolumu Pelt
-x4 Coral Bone
-x1 Aquacore Ore
-  Blessing Charm II 	divine-blessing-skill-mhw-wiki Divine Blessing +2 	Paolumu Wing x2
-Paolumu Pelt+ x4
-Sturdy Bone x6
-Spiritcore Ore x1
-  Blessing Charm III 	divine-blessing-skill-mhw-wiki Divine Blessing +3 	High Commendation x1
-Dragonbone Relic x1
-Brutal Bone x2
-Dreamcore Ore x1
-4 	blight_charmBlight Charm I 	blight resistance Blight Resistance +1 	??
-x1 Kirin Thunderhorn
-x2 Kirin Mane
-x3 Coral Bone
-x1 Aquacore Ore
-  Blight Charm II 	blight resistance Blight Resistance +2 	Kirin Azure Horn x1
-Kirin Thundertail x2
-Novacrystal x1
-Dreamcore Ore x1
-  Blight Charm III 	blight resistance Blight Resistance +3 	Daora Gem x1
-Xeno'jiiva Tail x2
-Brutal Bone x2
-Dragoncore Ore x1
-6 	Breaker Charm I 	partbreaker Partbreaker +1 	??
-x1 Uragaan Marrow
-x2 Urugaan Jaw
-x1 Firecell Stone
-x1 Spiritcore Ore
-  Breaker Charm II 	partbreaker Partbreaker +2 	Teostra Gem x1
-Xeno'jiiva Soulscale x6
-Firecell Stone x1
-Dreamcore Ore x1
-  Breaker Charm III 	partbreaker Partbreaker +3 	Tempered Banbaro Horn x3
-Guiding Wasteland Dragonbone x1
-Spiritvein Gem x1
-Phantomcore Ore x1
-8 	Bulwark Charm 	guard-skill-mhw-wiki Guard Up, Resuscitate 	16000
-x1 Research Commission Ticket
-x2 Majestic Horn
-x2 Black Spiral Horn+
-x2 Dragoncore Ore
-  Botany Charm I 	botanist Botanist +1 	Ancient Bone x3
-Boulder Bone x3
-Lightcrystal x1
-Aquacore Ore x1
-  Botany Charm II 	botanist Botanist +2 	Quality Bone x3
-Dragonbone Relic x1
-Earth Crystal x6
-Spiritcore Ore x1
-  Botany Charm III 	botanist Botanist +3 	High Commendation x1
-Novacrystal x1
-Quality Bone x2
-Dreamcore Ore x1
-  Botany Charm IV 	botanist Botanist +4 	Dragonbone Artifact x1
-Frozen Bone x2
-Thick Bone x3
-Dragoncore Ore x1
-5 	bombardier_charmBombardier Charm I 	bombardier-skill-mhw-wiki Bombardier +1 	6000
-x2 Dodgama Jaw
-x2 Dodogama Talon
-x1 Firecell Stone
-x1 Spiritcore Ore
-  Bombardier Charm II 	bombardier-skill-mhw-wiki Bombardier +2 	Bazelgeuse Gem x1
-Bazelgeuse Talon x2
-Novacrystal x1
-Spiritcore Ore x1
-  Bombardier Charm III 	bombardier-skill-mhw-wiki Bombardier +3 	Teostra Gem x1
-Teostra Horn+ x2
-Firecell Stone x1
-Dreamcore Ore x1
-3 	capacity_charmCapacity Charm 	capacity-boost-skill-mhw-wiki Capacity Boost +1 	1500
-x8 Dragonite Ore
-x3 Rath Wingtalon
-x2 Lightcrystal
-x1 Aquacore Ore
-  Critical Charm I 	critical-boost-skill-mhw-wiki Critical Boost +1 	Rathalos Ruby x1
-Rathian Ruby x1
-Xeno'jiiva Gem x1
-Dragoncore Ore x1
-  Critical Charm II 	critical-boost-skill-mhw-wiki Critical Boost +2 	Tempered Velkhana Horn x3
-Tempered Azure Rathalos Scale x3
-Great Spiritvein Gem x1
-Shadowcore Ore x1
-7 	challenger_charmChallenger Charm I 	attack-boost-skill-mhw-wiki Agitator +1 	12000
-x1 Nergigante Gem,
-x2 Nergigante Horn+
-x1 Novacrystal
-x1 Dreamcore Ore
-8 	Challenger Charm II 	attack-boost-skill-mhw-wiki Agitator +2 	??
-1x Nergigante Gem
-2x Nergigante Talon
-1x Fucium Ore
-1x Dragoncore Ore
-  Challenger Charm III 	attack-boost-skill-mhw-wiki Agitator +3 	1x Brachydios Pallium,
-3x Tempered Diablos Horn
-4x Spiritvein Solidbone
-1x Phantomcore Ore
-  Challenger Charm IV 	attack-boost-skill-mhw-wiki Agitator +4 	3x Tempered Lunastra Mane
-3x Tempered Diablos Horn
-1x Great Spitivein Gem
-1x Phantomcore Ore
-7 	clearmind_charmClearmind Charm 	Heat Guard, effluvia-expert-skill-mhw-wiki Effluvial Expert 	12000
-x1 Teostra Gem
-x1 Vaal Hazak Gem
-x5 Vaal Hazak Carapace
-x2 Dreamcore Ore
-3 	defense_charmDefense Charm I 	defense-boost-skill-mhw-wiki Defense Boost  +1 	1500
-x4 Dragonite Ore
-x4 Machalite Ore
-x1 Lightcrystal
-x1 Aquacore Ore
-  Defense Charm II 	defense-boost-skill-mhw-wiki Defense Boost +2 	Carbalite Ore x6
-Dragonite Ore x8
-Novacrystal x1
-Spiritcore Ore x1
-  Defense Charm III 	defense-boost-skill-mhw-wiki Defense Boost +3 	Fucium Ore x6
-Carbalite Ore x8
-Firecell Stone x1
-Dreamcore Ore x1
-  Defense Charm IV 	defense-boost-skill-mhw-wiki Defense Boost +4 	Fey Wyvern Gem x1
-Frozen Bone x3
-Purecrystal x3
-Dragoncore Ore x1
-  Defense Charm V 	defense-boost-skill-mhw-wiki Defense Boost +5 	Shara Ishvalda Tenderplate x1
-Shara Ishvalda Boulderplate x4
-Large Elder Dragon Gem x1
-Phantomcore Ore x1
-5 	demolition_charmDemolition Charm I 	blast-attack-skill-mhw-wiki Blast Attack +1 	6000
-x2 Dodogama Jaw
-x2 Dodogama Talon
-x1 Firecell Stone
-x1 Spiritcore Ore
-  Demolition Charm II 	blast-attack-skill-mhw-wiki Blast Attack +2 	Bazelgeuse Gem x1
-Bazelgeuse Talon x2
-Carbalite Ore x4
-Dreamcore Ore x1
-  Demolition Charm III 	blast-attack-skill-mhw-wiki Blast Attack +3 	Teostra Gem x1
-Xeno'jiiva Shell x3
-Firecell Stone x1
-Dreamcore Ore x1
-  Demolition Charm IV 	blast-attack-skill-mhw-wiki Blast Attack +4 	Paolumu Shell x3
-Coral Crystal x3
-Phantomcore Ore x1
-8 	Dispersal Charm 	spread-power-shots-skill-mhw-wiki Spread/Power Shots +1 	16000
-x1 Research Commission Ticket
-x1 Nergigante Gem
-x3 Nergigante Tail
-x1 Dragoncore Ore
-  Dispersal Charm II 	spread-power-shots-skill-mhw-wiki Spread/Power Shots+2 	Barroth Crown x3
-Wasteland Cragbone x2
-Fierce Dragonvein Bone x4
-Phantomcore Ore x1
-5 	dragon_charmDragon Charm I 	dragon-resistance-skill-mhw-wiki Dragon Resistance +1 	6000
-x1 Dragonbone Relic
-x3 Quality Bone
-x3 Dragonvein Crystal
-x1 Spiritcore Ore
-  Dragon Charm II 	dragon-resistance-skill-mhw-wiki Dragon Resistance +2 	Uragaan Ruby x1
-Uragaan Jaw x1
-Dragonvein Crystal x1
-Spiritcore Ore x1
-  Dragon Charm III 	dragon-resistance-skill-mhw-wiki Dragon Resistance +3 	Elder Dragon Blood x1
-Vaal Hazak Gem x1
-Dragonbone Relic x3
-Dreamcore Ore x1
-5 	draw_charmDraw Charm I 	critical-draw-skill-mhw-wiki Critical Draw +1 	6000
-x1 Diablos Marrow
-x3 Diablos Fang
-x3 Earth Crystal
-x1 Spiritcore Ore
-  Draw Charm II 	critical-draw-skill-mhw-wiki Critical Draw +2 	Teostra Gem x1
-Teostra Horn+ x2
-Fucium Ore x1
-Dreamcore Ore x1
-6 	earplugs_charmEarplugs Charm I 	earplugs-skill-mhw-wiki Earplugs +1 	9000
-x1 Blos Medulla
-x2 Majestic Horn
-x2 Firecell Stone
-x1 Dreamcore Ore
-  Earplugs Charm II 	earplugs-skill-mhw-wiki Earplugs +2 	Bazelgeuse Gem x1
-Bazelgeuse Talon x2
-Novacrystal x1
-Dreamcore Ore x1
-  Earplugs Charm III 	earplugs-skill-mhw-wiki Earplugs +3 	Teostra Gem x1
-Teostra Horn+ x2
-Wyvern Gem x1
-Dragoncore Ore x1
-  Earplugs Charm IV 	earplugs-skill-mhw-wiki Earplugs +4 	Tempered Vaal Hazak Fang x3
-Tempered Garuga Silverpelt x3
-Great Spiritvein Gem x1
-Shadowcore Ore x1
-3 	enervate_charmEnervate Charm I 	stamina thief Stamina Thief +1 	1500
-x2 Barroth Scalp
-x2 Barroth Claw
-x3 Earth Crystal
-x1 Aquacore Ore
-  Enervate Charm II 	stamina thief Stamina Thief +2 	Barroth Scalp x3
-Barroth Claw+ x2
-Warped Bone x6
-Spiritcore Ore x1
-  Enervate Charm III 	stamina thief Stamina Thief +3 	Blos Medulla x1
-Diablos Fang x3
-Brutal Bone x2
-Dreamcore Ore x1
-4 	evasion_charmEvasion Charm I 	evade-window-skill-mhw-wiki Evade Window +1 	3000 zenny-currency-mhworld-wiki
-x2 Legiana Tail Webbing
-x2 Legiana Claw
-x3 Coral Crystal
-x1 Aquacore Ore
-  Evasion Charm II 	evade-window-skill-mhw-wiki Evade Window +2 	Legiana Gem x1
-Legiana Claw+ x2
-Fucium Ore x1
-Spiritcore Ore x1
-  Evasion Charm III 	evade-window-skill-mhw-wiki Evade Window +3 	Fey Wyvern Gem x1
-Tempered Pukei Sac x3
-Spiritvein Gem Shard x1
-Phantomcore Ore x1
-  Evasion Charm IV 	evade-window-skill-mhw-wiki Evade Window +4 	Tempered Kushala Steelwing x3
-Tempered Rathalos Scale x3
-Great Spiritvein Gem x1
-Shadowcore Ore x1
-6 	exploiter_charmExploiter Charm I 	weakness-exploit-skill-mhw-wiki Weakness Exploit +1 	9000
-x1 Rathalos Plate
-x1 Rathalos Medulla
-x1 Novacrystal
-x1 Dreamcore Ore
-  Exploiter Charm II 	weakness-exploit-skill-mhw-wiki Weakness Exploit +2 	Teostra Gem x1
-Teostra Horn+ x2
-Firecell Stone x1
-Dragoncore Ore x1
-3 	extension_charmExtension Charm I 	item-prolonger-skill-mhw-wiki Item Prolonger +1 	1500
-x2 Kulu-Ya-Ku Beak
-x2 Kulu-Ya-Ku Plume
-x4 Ancient Bone
-x1 Aquacore Ore
-  Extension Charm II 	item-prolonger-skill-mhw-wiki Item Prolonger +2 	Pink Rathian Carapace x2
-Rathian Spike+ x1
-Novacrystal x1
-Spiritcore Ore x1
-  Extension Charm III 	item-prolonger-skill-mhw-wiki Item Prolonger +3 	High Commendation x1
-Daora Tail x1
-Firecell Stone x1
-Shadowcore Ore x1
-  Fair Wind Charm 	attack-boost-skill-mhw-wiki Attack Boost +1
-divine-blessing-skill-mhw-wiki Divine Blessing +1
-3 	fire_charmFire Charm I 	fire-resistance-skill-mhw-wiki Fire Resistance +1 	1500
-x1 Anjanath Plate
-x2 Anjanath Fang
-x3 Warped Bone
-x1 Aquacore Ore
-  Fire Charm II 	fire-resistance-skill-mhw-wiki Fire Resistance +2 	Anjanath Gem x1
-Anjanath Fang+ x2
-Earth Crystal x4
-Spiritcore Ore x1
-  Fire Charm III 	fire-resistance-skill-mhw-wiki Fire Resistance +3 	High Commendation x1
-Rathalos Ruby x1
-Inferno Sac x3
-Dreamcore Ore x1
-  Fitness Charm I 	constitution-skill-mhw-wikiConstitution +1 	Tobi-Kadachi Electrode+ x2
-Tobi-Kadachi Claw+ x2
-Dragonvein Crystal x3
-Spiritcore Ore x1
-  Fitness Charm II 	constitution-skill-mhw-wikiConstitution +2 	Odogaron Gem x1
-Odogaron Claw+ x2
-Fucium Ore x1
-Dreamcore Ore x1
-  Fitness Charm III 	constitution-skill-mhw-wikiConstitution +3 	Daora Gem x1
-Daora Claw+ x1
-Coral Crystal x3
-Dreamcore Ore x1
-  Fitness Charm IV 	constitution-skill-mhw-wikiConstitution +4 	Tempered Odogaron Claw x3
-Guiding Wasteland Crystal x1
-Spiritvein Solidbone x4
-Phantomcore Ore x1
-3 	friendship_charmFriendship Charm I 	wide-range-skill-mhw-wiki Wide Range +1 	1500
-x2 Tzitzi-Ya-Ku Photophore
-x2 Tzitzi-Ya-Ku Claw
-x4 Coral Crystal
-x1 Aquacore Ore
-  Friendship Charm II 	wide-range-skill-mhw-wiki Wide-Range +2 	Tzitzi-Ya-Ku Photophore+ x1
-Tzitzi-Ya-Ku Claw+ x2
-Novacrystal x1
-Spiritcore Ore x1
-  Friendship Charm III 	wide-range-skill-mhw-wiki Wide-Range +3 	Elder Dragon Blood x1
-High Commendation x1
-Brutal Bone x2
-Dreamcore Ore x1
-  Friendship Charm IV 	wide-range-skill-mhw-wiki Wide-Range +4 	Tzitzi Photophore x3
-Prosperous Crystal x2
-Fey Wyvern Gem x1
-Phantomcore Ore x1
-  Friendship Charm V 	wide-range-skill-mhw-wiki Wide-Range +5 	Tempered Namielle Hide x3
-Guiding Forest Crystal x1
-Spiritvein Slogbone x4
-Phantomcore Ore x1
-4 	frost_charmFrost Charm I 	ice-attack-skill-mhw-wiki Ice Attack +1 	3000
-x1 Legiana Plate
-x2 Legiana Claw
-x3 Coral Crystal
-x1 Aquacore Ore
-  Frost Charm II 	ice-attack-skill-mhw-wiki Ice Attack +2 	Legiana Gem x1
-Legiana Claw+ x2
-Coral Crystal x6
-Spiritcore Ore x1
-  Frost Charm III 	ice-attack-skill-mhw-wiki Ice Attack +3 	Daora Gem x1
-Daora Tail x1
-Freezer Sac x3
-Dreamcore Ore x1
-  Frost Charm IV 	ice-attack-skill-mhw-wiki Ice Attack +4 	Legiana Mantle x1
-Legiana Hide x3
-Dragonvein Solidborne x4
-Phantomcore Ore x1
-  Frost Charm V 	ice-attack-skill-mhw-wiki Ice Attack +5 	Tempered Legiana Hide x3
-Guiding Coral Crystal x1
-Spiritvein Solidbone x4
-Phantomcore Ore x1
-3 	fortification_charmFortification Charm 	Fortify Fortify +1 	1500
-x3 Sinister Cloth
-x3 Anjanath Fang
-x5 Warped Bone
-x1 Aquacore Ore
-3 	flood_charmFlood Charm I 	water-Attack-skill-mhw-wiki Water Attack +1 	1500
-x2 Jyuratodus Fin
-x2 Jyuratodus Fang
-x3 Earth Crystal
-x1 Aquacore Ore
-  Flood Charm II 	water-Attack-skill-mhw-wiki Water Attack +2 	Jyuratodus Fin+ x3
-Jyuratodus Fang+ x2
-Coral Crystal x6
-Spiritcore Ore x1
-  Flood Charm III 	water-Attack-skill-mhw-wiki Water Attack +3 	Vaal Hazak Gem x1
-Vaal Hazak Talon x2
-Torrent Sac x3
-Dreamcore Ore x1
-  Flood Charm IV 	water-Attack-skill-mhw-wikiWater Attack +4 	Hydrated Sac x3
-Fragrant Poison Sac x3
-Fierce Dragonvein Bone x4
-Phantomcore Ore x1
-  Flood Charm V 	water-Attack-skill-mhw-wikiWater Attack +5 	Tempered Torrent Sac x3
-Deepsea Crystal x3
-Spiritvein Solidbone x4
-Phantomcore Ore x1
-6 	focus_charmFocus Charm I 	focus-skill-mhw-wiki Focus +1 	9000
-x1 Blos Medulla,
-x2 Diablos Ridge+
-x1 Firecell Stone
-x1 Spiritcore Ore
-  Focus Charm II 	focus-skill-mhw-wiki Focus +2 	Vaal Hazak Gem x1
-Vaal Hazak Talon x2
-Fucium Ore x1
-Dreamcore Ore x1
-  Focus Charm III 	focus-skill-mhw-wiki Focus +3 	Tempered Vaal Hazak Fang x3
-Tempered Glavenus Tailedge x3
-Elder Spiritvein Bone x4
-Shadowcore Ore x1
-  Fury Charm I 	resentment-skill-mhw-wiki Resentment +1 	Black Spiral Horn+ x1
-Diablos Ridge+ x2
-Firecell Stone x1
-Spiritcore Ore x1
-  Fury Charm II 	resentment-skill-mhw-wiki Resentment +2 	Nergigante Gem x1
-Xeno'jiiva Soulscale x6
-Firecell Stone x1
-Dreamcore Ore x1
-  Fury Charm III 	resentment-skill-mhw-wiki Resentment +3 	Tempered Black Diablos Horn x3
-Guiding Effluvial Crystal x1
-Spiritvein Slogbone x4
-Phantomcore Ore x1
-  Fury Charm IV 	resentment-skill-mhw-wiki Resentment +4 	Tempered Savage Jho Hide x3
-Brute Tigrex Jaw x3
-Great Spiritvein Gem x1
-Shadowcore Ore x1
-8 	Gale Charm 	affinity sliding Affinity Sliding +1, airborne-skill-mhw-wiki Airborne +1 	16000
-x1 Research Commission Ticket
-x1 Odogaron Gem
-x1 Legiana Gem
-x2 Dragoncore Ore
-5 	gatherers_charmGatherer's Charm 	master-gatherer-skill-mhw-wiki Master Gatherer +1, carving-pro-skill-mhw-wiki Carving Pro +1 	6000
-x5 Mosswine Hide
-x5 Jagras Scale+
-x5 Jagras Hide+
-x2 Spiritcore Ore
-8  	geomancy_charmGeomancy Charm 	foragers-luck-skill-mhw-wiki Forager's Luck +1, Detector Detector +1 	16000
-x1 Xeno'jiiva Gem
-x3 Xeno'jiiva Veil
-x2 Teostra Mane
-x2 Dreamcore Ore
-  Geology Charm I 	geologist Geologist +1 	Dragonite Ore x4
-Machalite Ore x4
-Lightcrystal x1
-Aquacore Ore x1
-  Geology Charm II 	geologist Geologist +2 	Carbalite Ore x6
-Dragonite Ore x8
-Lightcrystal x2
-Spiritcore Ore x1
-  Geology Charm III 	geologist Geologist +3 	High Commendation x1
-Novacrystal x1
-Firecell Stone x1
-Dreamcore Ore x1
-3 	gluttons_charmGlutton's Charm I 	speed-eating-skill-mhw-wiki Speed Eating +1 	1500
-x2 Great Jagras Mane
-x2 Great Jagras Claw
-x4 Ancient Bone
-x1 Aquacore Ore
-  Glutton's Charm II 	speed-eating-skill-mhw-wiki Speed Eating +2 	Anjanath Gem x1
-Anjanath Fang+ x2
-Novacrystal x1
-Spiritcore Ore x1
-  Glutton's Charm III 	speed-eating-skill-mhw-wiki Speed Eating +3 	Nergigante Gem x1
-Nergigante Talon x2
-Quality Bone x2
-Dreamcore Ore x1
-6 	guard_charmGuard Charm I 	Iron Skin  Iron Skin +1 	9000
-x3 Barros Talon,
-x3 Barros Hide+
-x6 Brutal Bone
-x1 Spiritcore Ore
-
-Guard Charm II 	Iron Skin  Iron Skin +2 	Wyvern Gem x1
-Firecell Stone x1
-Dragonite Ore x6
-Spiritcore Ore x1
-
-Guard Charm III 	Iron Skin  Iron Skin +3 	Elder Dragon Blood x1
-High Commendation x1
-Dragonvein Crystal x2
-Dreamcore Ore x1
-9 	Guardian Charm 	handicraft-skill-mhw-wiki Offensive Guard +1 	Banbaro Great Horn x1
-Banbaro Chine x1
-Frozen Bone x1
-Dragoncore Orex1
-  Guardian Charm II 	handicraft-skill-mhw-wiki Offensive Guard +2 	Uragaan Pallium x1
-Lavasioth Grandfin x2
-Dodogama Mandible x2
-Phantomcore Ore x1
-  Guardian Charm III 	handicraft-skill-mhw-wiki Offensive Guard +3 	Tempered Namielle Hide x3
-Tempered Paolumu Shell x3
-Elder Spiritvein Bone x4
-Shadowcore Ore x1
-5 	handicraft_charmHandicraft Charm I 	handicraft-skill-mhw-wiki Handicraft +1 	6000
-x1 Zorah Magdaros Gem,
-x3 Zorah Magdaros Pleura,
-x4 Dragonvein Crystal,
-x1 Spiritcore ore
-6 	handicraft_charmHandicraft Charm II 	handicraft-skill-mhw-wiki Handicraft +2 	12000
-Daora Gem x1
-Daora Tail x1
-Wyvern Gem x1
-Dreamcore Ore x1
-8 	handicraft_charmHandicraft Charm III 	handicraft-skill-mhw-wiki Handicraft +3 	16000
-Research Commission Ticket x1
-Xeno'jiiva Gem x1
-Xeno'jiiva Claw x2
-Dragoncore Ore x1
-12 	handicraft_charmHandicraft Charm IV 	 handicraft-skill-mhw-wiki Handicraft +4 	16000
-Tempered Azure Mane x3
-Tempered Tailblade x3
-Great Spirtivein Gem x1
-Shadowcore Ore x1
-3 	health_charmHealth Charm I 	health-boost-skill-mhw-wiki Health Boost +1 	1500
-x1 Rathian Plate
-x3 Rathian Webbing
-x3 Earth Crystal
-x1 Aquacore Ore
-  Health Charm II 	health-boost-skill-mhw-wiki Health Boost  +2 	Rathian Ruby x1
-Rathian Spike x2
-Dragonvein Crystal x3
-Spiritcore Ore x1
-  Health Charm III 	health-boost-skill-mhw-wiki Health Boost +3 	Nergigante Gem x1
-Nergigante Talon x2
-Brutal Bone x2
-Dreamcore Ore x1
-3 	Hungerless Charm I 	hunger-resistance-skill-mhw-wiki Hunger Resistance +1 	1500
-x2 Girros Fang
-x4 Girros Hide
-x3 Corral Crystal
-x1 Aquacore Ore
-  Hungerless Charm II 	hunger-resistance-skill-mhw-wiki Hunger Resistance +2 	Jagras Hide+ x6
-Jagras Scale+ x8
-Lightcrystal x1
-Spiritcore Ore x1
-  Hungerless Charm III 	hunger-resistance-skill-mhw-wiki Hunger Resistance +3 	Wyvern Gem x1
-Fucium Ore x5
-Dragonbone Relic x1
-Dreamcore Ore x1
-3 	heavy_artillery_charmHeavy Artillery Charm I 	artillery-skill-mhw-wiki Heavy Artillery +1 	1500
-x4 Dragonite Ore
-x3 Tzitzi-Ya-Ku Claw
-x1 Lightcrystal
-x1 Aquacore Ore
-  Heavy Artillery Charm II 	artillery-skill-mhw-wiki Heavy Artillery +2 	Zorah Magdaros Magma x3
-Zorah Magdaros Pleura x1
-Dragonvein Crystal x3
-Aquacore Ore x1
-5 	hunters_life_charmHunter's Life Charm 	bbq-master-skill-mhw-wiki BBQ Master +1
-master-fisher-skill-mhw-wiki Master Fisher +1 	6000
-x3 High-quality Pelt,
-x5 Warm Pelt,
-x5 Piercing Claw,
-x2 Spiritcore Ore
-8 	invigorate_charmInvigorate Charm I 	Powe-prolonger-skill-mhw-wiki Power Prolonger +1 	16000
-x1 Xeno'jiiva Gem
-x1 Xeno'jiiva Horn
-x1 Novacrystal
-x1 Dreamcore Ore
-  Invigorate Charm II 	Powe-prolonger-skill-mhw-wiki Power Prolonger +2 	Nergigante Gem x1
-Xeno'jiiva Claw x2
-Firecell Stone x3
-Dragoncore Ore x1
-  Invigorate Charm III 	Powe-prolonger-skill-mhw-wiki Power Prolonger +3 	Tempered Rathian Scale x3
-Tempered Coral Pukei Sac x3
-Spiritvein Solidbone x1
-Shadowcore Ore x1
-3 	insect_charmInsect Charm I 	entomologist-skill-mhw-wiki Entomologist +1 	1500
-x2 Vespoid Wing
-x2 Vespoid Shell
-x4 Ancient Bone
-x1 Aquacore Ore
-  Insect Charm II 	entomologist-skill-mhw-wiki Entomologist +2 	Vespoid Innerwing x4
-Vespoid Carapace x6
-Lightcrystal x2
-Spiritcore Ore x1
-  Insect Charm III 	entomologist-skill-mhw-wiki Entomologist +3 	Wyvern Gem x1
-Commendation x5
-Quality Bone x2
-Dreamcore Ore x1
-3 	intimidator_charmIntimidator Charm I 	intimidator-skill-mhw-wiki Intimidator +1 	1500
-x2 Great Girros Hood
-x2 Great Girros Fang
-x4 Warped Bone
-x1 Aquacore Ore
-  Intimidator Charm II 	intimidator-skill-mhw-wiki Intimidator +2 	Great Jagras Mane x3
-Great Jagras Claw+ x2
-Boulder Bone x6
-Spiritcore Ore x1
-  Intimidator Charm III 	intimidator-skill-mhw-wiki Intimidator +3 	Rathalos Ruby x1
-Rathalos Wing x2
-Warped Bone x4
-Dreamcore Ore x1
-4 	ice_charmIce Charm I 	ice-attack-skill-mhw-wiki  Ice Resistance +1 	3000
-x1 Legiana Plate
-x2 Legiana Claw
-x3 Coral Crystal
-x1 Aquacore Ore
-  Ice Charm II 	ice-attack-skill-mhw-wiki  Ice Resistance +1 	Wyvern Gem x1
-Legiana Claw+ x2
-Coral Crystal x4
-Spiritcore Ore x1
-  Ice Charm III 	ice-attack-skill-mhw-wiki  Ice Resistance+1 	High Commendation x1
-Legiana Gem x1
-Freezer Sac x3
-Dreamcore Ore x1
-7 	impact_charmImpact Charm I 	flinch free Flinch Free +1 	12000
-x1 Xeno'jiiva Gem
-x2 Xeno'jiiva Horn
-x1 Firecell Stone
-x1 Dreamcore Ore
-  Impact Charm II 	flinch free Flinch Free +2 	Daora Gem x1
-Xeno'jiiva Shell x5
-Elder Dragon Bone x2
-Dragoncore Ore x1
-  Impact Charm III 	flinch free Flinch Free +3 	Elder Dragonvein Bone x3
-Serene Crystal x4
-Tempered Cragbone x4
-Phantomcore Ore x1
-3 	immobilize_charmImmobilize Charm I 	paralysis-attack-skill-mhw-wiki Paralysis Attack +1 	1500
-x2 Great Girros Hood
-x2 Great Girros Fang
-x4 Warped Bone
-x1 Aquacore Ore
-  Immobilize Charm II 	paralysis-attack-skill-mhw-wiki Paralysis Attack +2 	Great Girros Hood+ x1
-Great Girros Fang+ x2
-Carbalite Ore x4
-Spiritcore Ore x1
-  Immobilize Charm III 	paralysis-attack-skill-mhw-wiki Paralysis Attack +3 	High Commendation x1
-Wyvern Gem x1
-Omniplegia Sac x3
-Dreamcore Ore x1
-  Immobilize Charm IV 	paralysis-attack-skill-mhw-wiki Paralysis Attack +4 	Great Girros Hood x3
-Effluvial Crystal x3
-Ultraplegia Sac x3
-Phantomcore Ore x1
-3 	ironside_charmIronside Charm I 	guard-skill-mhw-wiki Guard +1 	1500 zenny-currency-mhworld-wiki
-x1 Radobaan Marrow
-x2 Radobaan Oilshell
-x3 Coral Crystal
-x1 Aquacore Ore
-  Ironside Charm II 	guard-skill-mhw-wiki Guard +2 	Radobaan Medulla x1
-Radobaan Oilshell x3
-Novacrystal x1
-Spiritcore Ore x1
-  Ironside Charm III 	guard-skill-mhw-wiki Guard +3 	Vaal Hazak Gem x1
-Vaal Hazak Talon x2
-Firecell Stone x1
-Dreamcore Ore x1
-  Ironside Charm IV 	guard-skill-mhw-wiki Guard +4
-
-12000 zenny-currency-mhworld-wiki
-
-Inkstained Oilshell + x2
-
-Uragaan Jaw + x3
-Uragaan Pallium x1
-Phantomcore Ore x1
-  Ironside Charm V 	guard-skill-mhw-wiki Guard +5 	Research Commission Ticket + x2
-Tempered Radobaan Shell x3
-Spiritvein Gem Shard x1
-Phantomcore Ore x1
-6 	grit_charmGrit Charm I 	Heroics Heroics +1 	9000
-x1 Blos Medulla
-x2 Diablos Ridge+
-x1 Firecell Stone
-x1 Spiritcore Ore
-  Grit Charm II 	Heroics Heroics +2 	Daora Gem x1
-Daora Tail x2
-Dragonvein Crystal x3
-Dreamcore Ore x1
-  Grit Charm III 	Heroics Heroics +3
-  Grit Charm IV 	Heroics Heroics +4 	Shara Ishvalda Gem x1
-Elder Spiritvein Bone x4
-Great Spiritvein Gem x1
-Shadowcore Ore x1
-3 	ko_charmKO Charm I 	slugger Slugger +1 	1500
-x1 Radobaan Marrow
-x2 Radobaan Oilshell
-x3 Coral Crystal
-x1 Aquacore Ore
-  KO Charm II 	slugger Slugger +2 	Radobaan Medulla x1
-Radobaan Oilshell x3
-Warped Bone x6
-Spiritcore Ore x1
-  KO Charm III 	slugger Slugger +3 	Teostra Gem x1
-Teostra Horn+ x2
-Firecell Stone x1
-Dreamcore Ore x1
-  Leaping Charm I 	evade-window-skill-mhw-wiki Evade Extender +1 	Tobi-Kadachi Electrode+ x2
-Tobi-Kadachi Claw+ x2
-Dragonvein Crystal x3
-Spiritcore Ore x1
-  Leaping Charm II 	evade-window-skill-mhw-wiki Evade Extender +2 	Daora Gem x1
-Daora Tail x1
-Firecell Stone x1
-Dreamcore Ore x1
-3 	Light Eater's Charm 	free-meal-skill-mhw-wiki Free Meal +1 	1500
-x4 Hornetaur Head
-x6 Hornetaur Wing
-x3 Great Girros Fang
-x1 Aquacore Ore
-5 	marathon_charmMarathon Charm I 	marathon-runner-skill-mhw-wiki Marathon Runner +1 	6000
-x2 Barroth Scalp
-x2 Barroth Claw+
-x3 Dragonvein Crystal
-x1 Spiritcore Ore
-  Marathon Charm II 	marathon-runner-skill-mhw-wiki Marathon Runner +2 	Xeno'jiiva Gem x1
-Xeno'jiiva Veil x2
-Fucium Ore x1
-Dreamcore Ore x1
-  Marathon Charm III 	marathon-runner-skill-mhw-wiki Marathon Runner +3 	Tempered Diablos Horn x3
-Tempered Barroth Crown x3
-Spiritvein Gem x1
-Phantomcore Ore x1
-4 	masters_charmMaster's Charm I 	critical-eye-skill-mhw-wiki Critical Eye +1 	3000 zenny-currency-mhworld-wiki
-x1 Odogaron Plate
-x2 Odogaron Fang
-x3 Warped Bone
-x1 Aquacore Ore
-  Master's Charm II 	critical-eye-skill-mhw-wiki Critical Eye +2 	Odogaron Gem x1
-Odogaron Claw+ x2
-Quality Bone x3
-Spiritcore Ore x1
-  Master's Charm III 	critical-eye-skill-mhw-wiki Critical Eye +3 	Nergigante Gem x1
-Nergigante Talon x2
-Brutal Bone x2
-Dreamcore Ore x1
-  Master's Charm IV 	critical-eye-skill-mhw-wiki Critical Eye +4 	Odogaron Mantle x1
-Odogaron Claw x3
-Kulu Plume x3
-Phantomcore Ore x1
-6 	maintenance_charmMaintenance Charm I 	tool-specialist-skill-mhw-wiki Tool Specialist  +1 	9000
-x2 Pink Rathian Carapace
-x2 Rathian Spike
-x3 Brutal Bone
-x1 Spiritcore Ore
-  Maintenance Charm II 	tool-specialist-skill-mhw-wiki Tool Specialist  +2 	Teostra Gem x1
-Teostra Horn+ x2
-Quality Bone x2
-Dreamcore Ore x1
-  Maintenance Charm III 	tool-specialist-skill-mhw-wiki Tool Specialist +3 	Vaal Hazak Gem x1
-Xeno'jiiva Veil x2
-Dragonvein Crystal x2
-Dreamcore Ore x1
-7 	miasma_charmMiasma Charm I 	effluvia-expert-skill-mhw-wiki Effluvia Resistance +1 	12000
-x1 Vaal Hazak Gem,
-x2 Vaal Hazak Fang+
-x1 Novacrystal
-x1 Dreamcore Ore
-  Miasma Charm II 	effluvia-expert-skill-mhw-wiki Effluvia Resistance +2 	Vaal Hazak Gem x1
-Vaal Hazak Talon x2
-Lightcrystal x2
-Dreamcore Ore x1
-  Miasma Charm III 	effluvia-expert-skill-mhw-wiki Effluvia Resistance +3 	High Commendation x3
-Xeno'jiiva Wing x2
-Dragonbone Relic x3
-Dreamcore Ore x1
-7 	mighty_charmMighty Charm I 	maximum-might-skill-mhw-wiki Maximum Might +1 	12000
-x1 Nergigante Gem
-x2 Nergigante Horn+
-
-x1 Novacrystal
-x1 Dreamcore Ore
-  Mighty Charm II 	maximum-might-skill-mhw-wiki Maximum Might +2 	Xeno'jiiva Gem x1
-Xeno'jiiva Tail x2
-Novacrystal x1
-Dragoncore Ore x1
-5 	mud_puppy_charmMud Puppy Charm 	mushroomancer-skill-mhw-wiki Muck Resistance +1, leap-of-faith-skill-mhw-wiki Leap of Faith +1 	6000
-x1 Jyuratodus Fang,
-x3 Tobi-Kodachi Electrode+
-x5 Dragonvein Crystal
-x2 Spiritcore Ore
-5 	mushroom_charmMushroom Charm I 	mushroomancer-skill-mhw-wiki Mushroomancer +1 	6000
-x1 Commendation
-x5 Mosswine Hide
-x1 Novacrystal
-x1 Dreamcore Ore
-  Mushroom Charm II 	mushroomancer-skill-mhw-wiki Mushroomancer +2 	Research Commission Ticket x1
-High Commendation x1
-Novacrystal x1
-Dragoncore Ore x1
-3 	mirewalker_charmMirewalker Charm I 	aquatic-expert-skill-mhw-wiki Aquatic Expert +1 	1500
-x2 Jyuratodus Fin
-x2 Jyuratodus Fang
-x4 Earth Crystal
-x1 Aquacore Ore
-  Mirewalker Charm II 	aquatic-expert-skill-mhw-wiki Aquatic Expert +2 	Jyuratodus Fin+ x3
-Jyuratodus Fang+ x2
-Coral Crystal x6
-Spiritcore Ore x1
-  Mirewalker Charm III 	aquatic-expert-skill-mhw-wiki Aquatic Expert +3 	Wyvern Gem x1
-Commendation x5
-Coral Bone x6
-Dreamcore Ore x1
-7 	normal_shots_charmNormal Shots Charm 	normal shots Normal Shots +1 	12000
-x2 High Commendation
-x1 Wyvern Gem,
-x2 Bird Wyvern Gem
-x1 Dreamcore Ore
-  Normal Shots Charm II 	normal shots Normal Shots +2 	Jagras Mane x3
-Mossy Greatbone x3
-Fierce Dragonvein Bone x4
-Phantomcore Ore x1
-  Para Coating Charm 	Para Functionality +1 	Great Girros Hood+ x5
-Great Girros Tail x5
-Omniplegia Sac x3
-Dragoncore Ore x1
-3 	paralysis_charmParalysis Charm I 	paralysis-resis-skill-mhw-wiki  Paralysis Resistance +1 	1500
-x1 Great Girros Hood
-x2 Great Girros Fang
-x6 Warped Bone
-x1 Aquacore Ore
-  Paralysis Charm II 	paralysis-resis-skill-mhw-wiki  Paralysis Resistance +2 	Great Girros Hood+ x2
-Omniplegia Sac x4
-Dragonvein Crystal x3
-Spiritcore Ore x1
-  Paralysis Charm III 	paralysis-resis-skill-mhw-wiki  Paralysis Resistance +3 	Teostra Gem x1
-Teostra Horn+ x2
-Firecell Stone x1
-Dreamcore Ore x1
-8 	Penetration Charm 	piercing shots Piercing Shots +1 	16000
-x1 Research Commission Ticket,
-x1 Xeno'jiiva Gem,
-x3 Xeno'jiiva Tail,
-x1 Dragoncore Ore
-  Penetration Charm II 	piercing shots Piercing Shots +2 	Pink Rathian Scale x3
-Coral Crimsonbone x2
-Fierce Dragonvein Bone x4
-Phantomcore Ore x1
-  Phoenix Charm I 	CoalescenceCoalescence +1 	1x Conqueror's Seal
-1x Velkhana Crystal
-1x Fey Wyvern Gem
-1x Dragoncore Ore
-  Phoenix Charm II 	CoalescenceCoalescence +2 	1x Research Commission Ticket +
-3x Tempered Velkhana Horn
-1x Great Spiritvein Gem
-1x Shadowcore Ore
-  Poison Coating Charm 	Poison Functionality +1 	Rathian Ruby x1
-Rathian Spike+ x3
-Toxin Sac x3
-Dragoncore Ore x1
-3 	poison_charmPoison Charm I 	poison-resistance-skill-mhw-wiki Poison Resistance +1 	1500
-x1 Pukei-Pukei Sac
-x2 Pukei-Pukei Tail
-x4 Earth Crystal
-x1 Aquacore Ore
-  Poison Charm II 	poison-resistance-skill-mhw-wiki Poison Resistance +2 	Pukei-Pukei Sac + x2
-Pukei-Pukei Wing  x2
-Dragonvein Crystal x3
-Spiritcore Ore x1
-  Poison Charm III 	poison-resistance-skill-mhw-wiki Poison Resistance +3 	Pukei-Pukei Sac x1
-Pukei-Pukei Tail x2
-Earth Crystal x4
-Aquacore Ore x1
-7 	power_charmPower Charm I 	Latent Power Latent Power +1 	12000
-x3 Teostra Horn+
-x2 Teostra Mane
-x1 Novacrystal
-x1 Dreamcore Ore
-5 	procurers_charmProcurer's Charm 	Pro Transporter Pro Transporter +1, honey-hunter-skill-mhw-wiki Honey Hunter  +1 	6000
-x5 Kestodon Carapace
-x5 Kestodon Scalp
-x5 Vespoid Carapace
-x2 Spiritcore ore
-3 	performers_charmPerformer's Charm 	horn-maestro-skill-mhw-wiki Horn Maestro +1 	1500
-x3 Great Girros Hood
-x5 Pukei-Pukei Sac
-x5 Sturdy Bone
-x1 Aquacore Ore
-  Rally Charm I 	palico-rally-skill-mhw-wiki Palico Rally +1 	Tailraider Voucher x1
-Sinister Cloth x1
-Lightcrystal x1
-Aquacore Ore x1
-  Rally Charm II 	palico-rally-skill-mhw-wiki Palico Rally +2 	Tailraider Voucher x2
-Lightcrystal x2
-Sturdy Bone x6
-Spiritcore Ore x1
-  Rally Charm III 	palico-rally-skill-mhw-wiki Palico Rally +3 	Tailraider Voucher x3
-High Commendation x2
-Quality Bone x2
-Dreamcore Ore x1
-  Rally Charm IV 	palico-rally-skill-mhw-wiki Palico Rally +4 	Boaboa Ticket x1
-Gracium x4
-Spiritvein Crystal x1
-Dragoncore Ore x1
-  Rally Charm V 	palico-rally-skill-mhw-wiki Palico Rally +5 	Boaboa Ticket x1
-Purecrystal x1
-Prized Pelt x3
-Dragoncore Ore x1
-3 	recovery_charmRecovery Charm I 	Recovery  Recovery Up +1 	1500
-x1 Rathian Plate
-x2 Rathian Spike
-x3 Earth Crystal
-x1 Aquacore Ore
-  Recovery Charm II 	Recovery  Recovery Up +2 	Pink Rathian Carapace x2
-Rathian Spike+ x1
-Novacrystal x1
-Spiritcore Ore x1
-  Recovery Charm III 	Recovery  Recovery Up +3 	Nergigante Gem x1
-Nergigante Talon x2
-Brutal Bone x2
-Dreamcore Ore x1
-7 	riders_charmRider's Charm 	master-mounter-skill-mhw-wiki Master Mounter +1, jump-master-skill-mhw-wiki Jump Master +1 	12000
-x1 Daora Gem
-x1 Legiana Gem
-x5 Legiana Scale+
-x2 Dreamcore Ore
-3 	shock_charmShock Charm I 	thunder-attack-skill-mhw-wiki Thunder Attack +1 	1500
-x2 Tobi-Kodachi Electrode
-x2 Tobi-Kodachi Claw
-x4 Ancient Bone
-x1 Aquacore Ore
-  Shock Charm II 	thunder-attack-skill-mhw-wiki Thunder Attack +2 	Tobi-Kadachi Electrode+ x2
-Tobi-Kadachi Claw+ x2
-Earth Crystal x6
-Spiritcore Ore x1
-  Shock Charm III 	thunder-attack-skill-mhw-wiki Thunder Attack +3 	Kirin Azure Horn x1
-Kirin Thundertail x2
-Thunder Sac x3
-Dreamcore Ore x1
-  Shock Charm IV 	thunder-attack-skill-mhw-wiki Thunder Attack +4 	Fulgur Anjanath Pelt x3
-Tobi Cathode x3
-Dragonvein Solidbone x4
-Phantomcore Ore x1
-  Shock Charm V 	thunder-attack-skill-mhw-wiki Thunder Attack +5 	Tempered Tobi Cathode x3
-Tempered Fulgur Anjanath Pelt x3
-Spiritvein Solidbone x4
-Phantomcore Ore x1
-4 	sheath_charmSheath Charm I 	quick-sheath-skill-mhw-wiki Quick Sheath +1 	3000
-x1 Diablos Marrow
-x2 Diablos Fang
-x3 Earth Crystal
-x1 Aquacore Ore
-  Sheath Charm II 	quick-sheath-skill-mhw-wiki Quick Sheath +2 	Lavasioth Fin+ x1
-Lavasioth Fang+ x2
-Novacrystal x1
-Spiritcore Ore x1
-  Sheath Charm III 	quick-sheath-skill-mhw-wiki Quick Sheath +3 	Bazelgeuse Gem x1
-Xeno'jiiva Horn x1
-Firecell Stone x1
-Dreamcore Ore x1
-3 	sleep_charmSleep Charm I 	sleep-resistance-skill-mhw-wiki Sleep Resistance +1 	1500
-x1 Radobaan Marrow
-x2 Radobaan Oilshell
-x3 Coral Crystal
-x1 Aquacore Ore
-  Sleep Charm II 	sleep-resistance-skill-mhw-wiki Sleep Resistance +3 	Radobaan Medulla x1
-Radobaan Oilshell x3
-Dragonvein Crystal x3
-Spiritcore Ore x1
-  Sleep Charm III 	sleep-resistance-skill-mhw-wiki Sleep Resistance+3 	Uragaan Ruby  x1
-Uragaan Jaw x2
-Firecell Stone x1
-Dreamcore Ore x1
-  Sleep Coating Charm 	Sleep Functionality +1 	Radobaan Medulla x1
-Wyvern Gem x2
-Coma Sac x3
-Dragoncore Ore x1
-  Slinger Charm I 	slinger-capacity-skill-mhw-wiki Slinger Capacity +1 	Radobaan Marrow x1
-Radobaan Oilshell x2
-Coral Crystal x3
-Aquacore Ore x1
-  Slinger Charm II 	slinger-capacity-skill-mhw-wiki Slinger Capacity +2 	Radobaan Medulla x1
-Radobaan Oilshell x3
-Dragonbone Relic x1
-Spiritcore Ore x1
-  Slinger Charm III 	slinger-capacity-skill-mhw-wiki Slinger Capacity +3 	High Commendation x1
-Bird Wyvern Gem x1
-Firecell Stone x1
-Dreamcore Ore x1
-4 	speed_charmSpeed Heal Charm I 	Recovery Speed Recovery Speed +1 	1500
-x1 Rathian Plate,
-x2 Rathian Spike,
-x3 Earth Crystal,
-x1 Aquacore Ore
-  Speed Heal Charm II 	Recovery Speed Recovery Speed +2 	Lavasioth Fin+ x3
-Lavasioth Fang+ x2
-Novacrystal x1
-Spiritcore Ore x1
-  Speed Heal Charm III 	Recovery Speed Recovery Speed +3 	Vaal Hazak Gem x1
-Vaal Hazak Wing x2
-Brutal Bone x2
-Dreamcore Ore x1
-  Special Shot Charm 	sporepuff-expert-skill-mhw-wiki Special Ammo Boost +1 	Anjarath Plate x1
-Anjarath Fang x2
-Warped Bone x3
-Spiritcore Ore x1
-6000
-  Special Shot Charm II 	sporepuff-expert-skill-mhw-wiki Special Ammo Boost +2 	Bazelgeuze Gem x1
-Xeno'jiiva Wing x2
-Novacrystal x1
-Dreamcore Ore x1
-16000
-  Stealth Charm I 	stealth-skill-mhw-wiki Stealth +1 	Great Jagras Mane x2
-Great Jagras Claw x2
-Lightcrystal x1
-Aquacore Ore x1
-  Stealth Charm II 	stealth-skill-mhw-wiki Stealth +2 	Lavasioth Fin+ x3
-Lavasioth Fang+ x2
-Dragonbone Relic x3
-Spiritcore Ore x1
-  Stealth Charm III 	stealth-skill-mhw-wiki Stealth +3 	High Commendation x1
-Bird Wyvern Gem x1
-Quality Bone x2
-Dreamcore Ore x1
-  Smoke Charm I 	sporepuff-expert-skill-mhw-wiki Sporepuff Expert +1 	Pukei-Pukei Sac x2
-Pukei-Pukei Tail x2
-Earth Crystal x2
-Aquacore Ore x 1
-  Smoke Charm II 	sporepuff-expert-skill-mhw-wiki Sporepuff Expert +2 	Wyvern Gem x1
-Commendation x5
-Earth Crystal x6
-Spiritcore Ore x1
-  Smoke Charm III 	sporepuff-expert-skill-mhw-wiki Sporepuff Expert +3 	High Commendation x1
-Bird Wyvern Gem x1
-Firecell Stone x1
-Dreamcore Ore x1
-3 	stun_charmStun Charm I 	stun-resistance-skill-mhw-wiki  Stun Resistance +1 	1500
-x2 Tzitzi-Ya-Ku Photophore,
-x2 Tzitzi-Ya-Ku Claw,
-x4 Coral Crystal,
-x1 Aquacore Ore
-  Stun Charm II 	stun-resistance-skill-mhw-wiki  Stun Resistance +2 	Tzitzi-Ya-Ku Photophore+ x2
-Tzitzi-Ya-Ku Claw+ x2
-Novacrystal x1
-Spiritcore Ore x1
-  Stun Charm III 	stun-resistance-skill-mhw-wiki  Stun Resistance +3 	Black Spiral Horn+ x3
-Black Diablos Ridge+ x2
-Brutal Bone x2
-Dreamcore Ore x1
-7 	surveyors_charmSurveyor's Charm 	Scoutfly  Scoutfly Range Up +1, scholar-skill-mhw-wiki Scholar +1 	12000
-x1 Nergigante Gem,
-x5 Zorah Magdaros Heat Scale,
-x3 Zorah Magdaros Magma,
-x2 Dreamcore Ore
-5 	Surge Charm I 	stamina-surge-skill-mhw-wiki Stamina Surge +1 	6000
-x2 Paolumu Wing,
-x3 Paolumu Pelt+,
-x3 Dragonbone Relic,
-x1 Spiritcore Ore
-  Surge Charm II 	stamina-surge-skill-mhw-wiki Stamina Surge +2 	Nergigante Gem x1
-Nergigante Talon x2
-Fucium Ore x1
-Dreamcore Ore x1
-3 	tranq_charmTranq Charm I 	sleep-attack-skill-mhw-wiki Sleep Attack +1 	1500 zenny-currency-mhworld-wiki
-x1 Radobaan Marrow,
-x2 Radobaan Oilshell,
-x3 Coral Crystal,
-x1 Aquacore Ore
-  Tranq Charm II 	sleep-attack-skill-mhw-wiki Sleep Attack +2 	Radobaan Medulla x1
-Radobaan Oilshell x3
-Carbalite Ore x4
-Spiritcore Ore x1
-  Tranq Charm III 	sleep-attack-skill-mhw-wiki Sleep Attack +3 	High Commendation x1
-Vaal Hazak Gem x1
-Coma Sac x3
-Dreamcore Ore x1
-  Tranq Charm IV 	sleep-attack-skill-mhw-wiki Sleep Attack +4 	Nightshade Paolumu Fur x3
-Wasteland Crystal x3
-Torpor Sac x3
-Phantomcore Ore x1
-6 	tremor_charmTremor Charm I 	tremor-resistance-skill-mhw-wiki Tremor Resistance +1 	9000
-x1 Blos Medulla,
-x2 Diablos Ridge+,
-x1 Firecell Stone,
-x1 Dreamcore Ore
-  Tremor Charm II 	tremor-resistance-skill-mhw-wiki Tremor Resistance +2 	Vaal Hazak Gem x1
-Vaal Hazak Talon x2
-Novacrystal x1
-Dreamcore Ore x1
-  Tremor Charm III 	tremor-resistance-skill-mhw-wiki Tremor Resistance +3 	Tempered Tigex Jaw x3
-Tempered Diablos Horn x3
-Spiritvein Gem x1
-Phantomcore Ore x1
-3 	Tracker Charm 	scenthound-skill-mhw-wiki Scenthound +1 	1500
-x1 Anjanath Nosebone
-x5 Anjanath Pelt
-x2 Barroth Scalp
-x1 Aquacore Ore
-5 	trickshot_charmTrickshot Charm 	dungmaster-skill-mhw-wiki Dungmaster +1, blindsider-skill-mhw-wiki Blindsider +1 	6000 zenny-currency-mhworld-wiki
-x2 Barroth Claws
-x2 Lightcystal
-x2 Spiritcore Ore
-x3 Tzitzi-Ya-Ku Photophore
-  Trickshot Charm II 	special-ammo-boost-skill-mhw-wiki Special Ammo Boost +2 	Bazelgeuse Gem x1
-Xeno'jiiva Wing x2
-Novacrystal x1
-Dreamcore Ore x1
-3 	thunder_charmThunder Charm I 	thunder-Resistance-skill-mhw-wiki Thunder Resistance +1 	1500
-x1 Tobi-Kodachi Electrode
-x2 Tobi-Kodachi Claw
-x6 Ancient Bone
-x1 Aquacore Ore
-  Thunder Charm II 	thunder-Resistance-skill-mhw-wiki Thunder Resistance +2 	Tobi-Kadachi Electrode+ x1
-Tobi-Kadachi Claw+ x2
-Earth Crystal x4
-Spiritcore Ore x1
-  Thunder Charm III 	thunder-Resistance-skill-mhw-wiki Thunder Resistance +3 	High Commendation x1
-Wyvern Gem x1
-Thunder Sac x3
-Dreamcore Ore x1
-7 	unscathed_charmUnscathed Charm I 	https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/divine-blessing-skill-mhw-wiki.png Peak Performance +1 	12000
-x1 Vaal Hazak Gem,
-x2 Vaal Hazak Fang+.
-x1 Novacrystal,
-x1 Dreamcore Ore
-3 	venom_charmVenom Charm I 	poison-Attack-skill-mhw-wiki Poison Attack +1 	1500
-x1 Rathian Plate
-x1 Rathian Spike
-x3 Earth Crystal
-x1 Aquacore Ore
-  Venom Charm II 	poison-Attack-skill-mhw-wiki Poison Attack +2 	Pink Rathian Carapace x2
-Rathian Spike+ x1
-Carbalite Ore x4
-Spiritcore Ore x1
-  Venom Charm III 	poison-Attack-skill-mhw-wiki Poison Attack +3 	High Commendation x1
-Rathian Ruby x1
-Toxin Sac x3
-Dreamcore Ore x1
-  Venom Charm IV 	poison-Attack-skill-mhw-wiki Poison Attack +4 	Rathian Scale x3
-Forest Crystal x3
-Deadly Poison Sac x3
-Phantomcore Ore x1
-3 	water_charmWater Charm I 	water-resistance-skill-mhw-wiki Water Resistance +1 	1500
-x3 Jyuratodus Fin
-x3 Jyuratodus Fang
-x6 Earth Crystal
-x1 Aquacore Ore
-  Water Charm II 	water-resistance-skill-mhw-wiki Water Resistance +2 	Jyuratodus Fin+ x3
-Jyuratodus Fang+ x2
-Coral Crystal x4
-Spiritcore Ore x1
-  Water Charm III 	water-resistance-skill-mhw-wiki Water Resistance +3 	High Commendation x1
-Wyvern Gem x1
-Torrent Sac x3
-Dreamcore Ore x1
-4 	whetstone_charmWhetstone Charm I 	speed-sharpening-skill-mhw-wiki Speed Sharpening +1 	3000 zenny-currency-mhworld-wiki
-x1 Odogaron Plate
-x2 Odogaron Fang
-x3 Warped Bone
-x1 Aquacore Ore
-  Whetstone Charm II 	speed-sharpening-skill-mhw-wiki Speed Sharpening +2 	Odogaron Gem x1
-Odogaron Claw+ x2
-Novacrystal x1
-Spiritcore Ore x1
-  Whetstone Charm III 	speed-sharpening-skill-mhw-wiki Speed Sharpening +3 	Nergigante Gem x1
-Nergigante Talon x2
-Firecell Stone x1
-Dreamcore Ore x1
-3 	windproof_charmWindproof Charm I 	windproof-skill-mhw-wiki Windproof +1 	1500
-x3 Paolumu Webbing
-x5 Paolumu Shell
-x3 Coral Crystal
-x1 Aquacore Ore
-  Windproof Charm II 	windproof-skill-mhw-wiki Windproof +2 	Paolumu Wing x3
-Wyvern Gem x2
-Dragonvein Crystal x1
-Spiritcore Ore x1
-  Windproof Charm III 	windproof-skill-mhw-wiki Windproof +3 	Azure Rathalos Wing x3
-Rathalos Ruby x1
-Novacrystal x1
-Dreamcore Ore x1
-  Windproof Charm IV 	windproof-skill-mhw-wiki Windproof +4 	Kushala Steelwing x3
-Tigrex Mantle x1
-Elder Dragonvein Bone x4
-Phantomcore Ore x1
-5 	wyrmsbane_charmWyrmsbane Charm I 	dragon-attack-skill-mhw-wiki Dragon Attack +1 	6000
-x1 Dragonbone Relic,
-x3Quality Bone,
-x3 Dragonvein Crystal,
-x1 Spiritcore Ore
-  Wyrmsbane Charm II 	dragon-attack-skill-mhw-wiki Dragon Attack +2 	Vaal Hazak Gem x1
-Vaal Hazak Talon x2
-Dragonvein Crystal x4
-Dreamcore Ore x1
-  Wyrmsbane Charm III 	dragon-attack-skill-mhw-wiki Dragon Attack +3 	Xeno'jiiva Gem x1
-Xeno'jiiva Claw x2
-Dragonbone Relic x3
-Dreamcore Ore x1
-8 	Wyrmslayer Charm 	Elderseal Boost +1, dragon-attack-skill-mhw-wiki Dragon Attack +1 	16000
-x1 Research Commission Ticket,
-x1 Xeno'jiiva Gem,
-x1 Vaal Hazak Talon,
-x2 Dragoncore Ore
-11 	Razor Sharp Charm 	Razor Sharp/Spare Shot +1 	Obtained from completing the quest The Purr-fect Room: Light Iron - talk to your Housekeeper after completing it.
-11 	Adamantine Charm 	Non-Elemental Boost +1
-Bludgeoner +1 	Obtained from completing the quest The Purr-fect Room: Stone - talk to your Housekeeper after completing it.
-11 	Sealer's Charm 	Elderseal Boost x1
-Adrenaline x1 	Obtained from completing the quest The Purr-fect Room: Dark Iron - talk to your Housekeeper after completing it.
-11 	Gutsy Charm 	Guts x1 	Obtained from completing the quest The Purr-fect Room: Silver - talk to your Housekeeper after completing it.
+Artillery Charm I ; Artillery +1
+Artillery Charm II ; Artillery +2
+Artillery Charm III ; Artillery +3
+Attack Charm I ; Attack Boost +1
+Attack Charm II ; Attack Boost +2
+Attack Charm III ; Attack Boost +3
+Attack Charm IV ; Attack Boost +4
+Awakening Charm I ; Free Elem/Ammo Up +1
+Awakening Charm II ; Free Elem/Ammo Up +2
+Awakening Charm III ; Free Elem/Ammo Up +3
+Blast Charm I ; Blast Resistance +1
+Blast Charm II ; Blast Resistance +2
+Blast Charm III ; Blast Resistance +3
+Blast Coating Charm  ; Blast Functionality +1
+Blaze Charm I ; Fire Attack +1
+Blaze Charm II ; Fire Attack +2
+Blaze Charm III ; Fire Attack +3
+Blaze Charm IV ; Fire Attack +4
+Blaze Charm V ; Fire Attack +5
+Bleed Charm I ; Bleeding Resistance +1
+Bleed Charm II ; Bleeding Resistance +2
+Bleed Charm III ; Bleeding Resistance +3
+Blessing Charm I ; Divine Blessing +1
+Blessing Charm II ; Divine Blessing +2
+Blessing Charm III ; Divine Blessing +3
+Blight Charm I ; Blight Resistance +1
+Blight Charm II ; Blight Resistance +2
+Blight Charm III ; Blight Resistance +3
+Breaker Charm I ; Partbreaker +1
+Breaker Charm II ; Partbreaker +2
+Breaker Charm III ; Partbreaker +3
+Bulwark Charm  ; Guard Up +1 ; Resuscitate +1
+Botany Charm I ; Botanist +1
+Botany Charm II ; Botanist +2
+Botany Charm III ; Botanist +3
+Botany Charm IV ; Botanist +4
+Bombardier Charm I ; Bombardier +1
+Bombardier Charm II ; Bombardier +2
+Bombardier Charm III ; Bombardier +3
+Capacity Charm  ; Capacity Boost +1
+Critical Charm I ; Critical Boost +1
+Critical Charm II ; Critical Boost +2
+Challenger Charm I ; Agitator +1
+Challenger Charm II ; Agitator +2
+Challenger Charm III ; Agitator +3
+Challenger Charm IV ; Agitator +4
+Clearmind Charm Heat Guard  ; Effluvial Expert +1
+Defense Charm I ; Defense Boost +1
+Defense Charm II ; Defense Boost +2
+Defense Charm III ; Defense Boost +3
+Defense Charm IV ; Defense Boost +4
+Defense Charm V ; Defense Boost +5
+Demolition Charm I ; Blast Attack +1
+Demolition Charm II ; Blast Attack +2
+Demolition Charm III ; Blast Attack +3
+Demolition Charm IV ; Blast Attack +4
+Dispersal Charm  ; Spread/Power Shots +1
+Dispersal Charm II ; Spread/Power Shots +2
+Dragon Charm I ; Dragon Resistance +1
+Dragon Charm II ; Dragon Resistance +2
+Dragon Charm III ; Dragon Resistance +3
+Draw Charm I ; Critical Draw +1
+Draw Charm II ; Critical Draw +2
+Earplugs Charm I ; Earplugs +1
+Earplugs Charm II ; Earplugs +2
+Earplugs Charm III ; Earplugs +3
+Earplugs Charm IV ; Earplugs +4
+Enervate Charm I ; Stamina Thief +1
+Enervate Charm II ; Stamina Thief +2
+Enervate Charm III ; Stamina Thief +3
+Evasion Charm I ; Evade Window +1
+Evasion Charm II ; Evade Window +2
+Evasion Charm III ; Evade Window +3
+Evasion Charm IV ; Evade Window +4
+Exploiter Charm I ; Weakness Exploit +1
+Exploiter Charm II ; Weakness Exploit +2
+Extension Charm I ; Item Prolonger +1
+Extension Charm II ; Item Prolonger +2
+Extension Charm III ; Item Prolonger +3
+Fair Wind Charm  ; Attack Boost +1 ; Divine Blessing +1
+Fire Charm I ; Fire Resistance +1
+Fire Charm II ; Fire Resistance +2
+Fire Charm III ; Fire Resistance +3
+Fitness Charm I ; Constitution +1
+Fitness Charm II ; Constitution +2
+Fitness Charm III ; Constitution +3
+Fitness Charm IV ; Constitution +4
+Friendship Charm I ; Wide-Range +1
+Friendship Charm II ; Wide-Range +2
+Friendship Charm III ; Wide-Range +3
+Friendship Charm IV ; Wide-Range +4
+Friendship Charm V ; Wide-Range +5
+Frost Charm I ; Ice Attack +1
+Frost Charm II ; Ice Attack +2
+Frost Charm III ; Ice Attack +3
+Frost Charm IV ; Ice Attack +4
+Frost Charm V ; Ice Attack +5
+Fortification Charm  ; Fortify +1
+Flood Charm I ; Water Attack +1
+Flood Charm II ; Water Attack +2
+Flood Charm III ; Water Attack +3
+Flood Charm IV ; Water Attack +4
+Flood Charm V ; Water Attack +5
+Focus Charm I ; Focus +1
+Focus Charm II ; Focus +2
+Focus Charm III ; Focus +3
+Fury Charm I ; Resentment +1
+Fury Charm II ; Resentment +2
+Fury Charm III ; Resentment +3
+Fury Charm IV ; Resentment +4
+Gale Charm  ; Affinity Sliding +1 ; Airborne +1
+Gatherer's Charm  ; Master Gatherer +1 ; Carving Pro +1
+Geomancy Charm  ; Forager's Luck +1 ; Detector +1
+Geology Charm I ; Geologist +1
+Geology Charm II ; Geologist +2
+Geology Charm III ; Geologist +3
+Glutton's Charm I ; Speed Eating +1
+Glutton's Charm II ; Speed Eating +2
+Glutton's Charm III ; Speed Eating +3
+Guard Charm I ; Iron Skin +1
+Guard Charm II ; Iron Skin +2
+Guard Charm III ; Iron Skin +3
+Guardian Charm  ; Offensive Guard +1
+Guardian Charm II ; Offensive Guard +2
+Guardian Charm III ; Offensive Guard +3
+Handicraft Charm I ; Handicraft +1
+Handicraft Charm II ; Handicraft +2
+Handicraft Charm III ; Handicraft +3
+Handicraft Charm IV ; Handicraft +4
+Health Charm I ; Health Boost +1
+Health Charm II ; Health Boost +2
+Health Charm III ; Health Boost +3
+Hungerless Charm I ; Hunger Resistance +1
+Hungerless Charm II ; Hunger Resistance +2
+Hungerless Charm III ; Hunger Resistance +3
+Heavy Artillery Charm I ; Heavy Artillery +1
+Heavy Artillery Charm II ; Heavy Artillery +2
+Hunter's Life Charm  ; BBQ Master +1 ; Master Fisher +1
+Invigorate Charm I ; Power Prolonger +1
+Invigorate Charm II ; Power Prolonger +2
+Invigorate Charm III ; Power Prolonger +3
+Insect Charm I ; Entomologist +1
+Insect Charm II ; Entomologist +2
+Insect Charm III ; Entomologist +3
+Intimidator Charm I ; Intimidator +1
+Intimidator Charm II ; Intimidator +2
+Intimidator Charm III ; Intimidator +3
+Ice Charm I ; Ice Resistance +1
+Ice Charm II ; Ice Resistance +1
+Ice Charm III ; Ice Resistance +1
+Impact Charm I ; Flinch Free +1
+Impact Charm II ; Flinch Free +2
+Impact Charm III ; Flinch Free +3
+Immobilize Charm I ; Paralysis Attack +1
+Immobilize Charm II ; Paralysis Attack +2
+Immobilize Charm III ; Paralysis Attack +3
+Immobilize Charm IV ; Paralysis Attack +4
+Ironside Charm I ; Guard +1
+Ironside Charm II ; Guard +2
+Ironside Charm III ; Guard +3
+Ironside Charm IV ; Guard +4
+Ironside Charm V ; Guard +5
+Grit Charm I ; Heroics +1
+Grit Charm II ; Heroics +2
+Grit Charm III ; Heroics +3
+Grit Charm IV ; Heroics +4
+KO Charm I ; Slugger +1
+KO Charm II ; Slugger +2
+KO Charm III ; Slugger +3
+Leaping Charm I ; Evade Extender +1
+Leaping Charm II ; Evade Extender +2
+Light Eater's Charm  ; Free Meal +1
+Marathon Charm I ; Marathon Runner +1
+Marathon Charm II ; Marathon Runner +2
+Marathon Charm III ; Marathon Runner +3
+Master's Charm I ; Critical Eye +1
+Master's Charm II ; Critical Eye +2
+Master's Charm III ; Critical Eye +3
+Master's Charm IV ; Critical Eye +4
+Maintenance Charm I ; Tool Specialist +1
+Maintenance Charm II ; Tool Specialist +2
+Maintenance Charm III ; Tool Specialist +3
+Miasma Charm I ; Effluvia Resistance +1
+Miasma Charm II ; Effluvia Resistance +2
+Miasma Charm III ; Effluvia Resistance +3
+Mighty Charm I ; Maximum Might +1
+Mighty Charm II ; Maximum Might +2
+Mud Puppy Charm  ; Muck Resistance +1 ; Leap of Faith +1
+Mushroom Charm I ; Mushroomancer +1
+Mushroom Charm II ; Mushroomancer +2
+Mirewalker Charm I ; Aquatic Expert +1
+Mirewalker Charm II ; Aquatic Expert +2
+Mirewalker Charm III ; Aquatic Expert +3
+Normal Shots Charm  ; Normal Shots +1
+Normal Shots Charm II ; Normal Shots +2
+Para Coating Charm  ; Para Functionality +1
+Paralysis Charm I ; Paralysis Resistance +1
+Paralysis Charm II ; Paralysis Resistance +2
+Paralysis Charm III ; Paralysis Resistance +3
+Penetration Charm  ; Piercing Shots +1
+Penetration Charm II ; Piercing Shots +2
+Phoenix Charm I ; Coalescence +1
+Phoenix Charm II ; Coalescence +2
+Poison Coating Charm  ; Poison Functionality +1
+Poison Charm I ; Poison Resistance +1
+Poison Charm II ; Poison Resistance +2
+Poison Charm III ; Poison Resistance +3
+Power Charm I ; Latent Power +1
+Procurer's Charm  ; Pro Transporter +1 ; Honey Hunter +1
+Performer's Charm  ; Horn Maestro +1
+Rally Charm I ; Palico Rally +1
+Rally Charm II ; Palico Rally +2
+Rally Charm III ; Palico Rally +3
+Rally Charm IV ; Palico Rally +4
+Rally Charm V ; Palico Rally +5
+Recovery Charm I ; Recovery Up +1
+Recovery Charm II ; Recovery Up +2
+Recovery Charm III ; Recovery Up +3
+Rider's Charm  ; Master Mounter +1 ; Jump Master +1
+Shock Charm I ; Thunder Attack +1
+Shock Charm II ; Thunder Attack +2
+Shock Charm III ; Thunder Attack +3
+Shock Charm IV ; Thunder Attack +4
+Shock Charm V ; Thunder Attack +5
+Sheath Charm I ; Quick Sheath +1
+Sheath Charm II ; Quick Sheath +2
+Sheath Charm III ; Quick Sheath +3
+Sleep Charm I ; Sleep Resistance +1
+Sleep Charm II ; Sleep Resistance +3
+Sleep Charm III ; Sleep Resistance +3
+Sleep Coating Charm  ; Sleep Functionality +1
+Slinger Charm I ; Slinger Capacity +1
+Slinger Charm II ; Slinger Capacity +2
+Slinger Charm III ; Slinger Capacity +3
+Speed Heal Charm I ; Recovery Speed +1
+Speed Heal Charm II ; Recovery Speed +2
+Speed Heal Charm III ; Recovery Speed +3
+Special Shot Charm  ; Special Ammo Boost +1
+Special Shot Charm II ; Special Ammo Boost +2
+Stealth Charm I ; Stealth +1
+Stealth Charm II ; Stealth +2
+Stealth Charm III ; Stealth +3
+Smoke Charm I ; Sporepuff Expert +1
+Smoke Charm II ; Sporepuff Expert +2
+Smoke Charm III ; Sporepuff Expert +3
+Stun Charm I ; Stun Resistance +1
+Stun Charm II ; Stun Resistance +2
+Stun Charm III ; Stun Resistance +3
+Surveyor's Charm Scout fly  ; Scoutfly Range Up +1 ; Scholar +1
+Surge Charm I ; Stamina Surge +1
+Surge Charm II ; Stamina Surge +2
+Tranq Charm I ; Sleep Attack +1
+Tranq Charm II ; Sleep Attack +2
+Tranq Charm III ; Sleep Attack +3
+Tranq Charm IV ; Sleep Attack +4
+Tremor Charm I ; Tremor Resistance +1
+Tremor Charm II ; Tremor Resistance +2
+Tremor Charm III ; Tremor Resistance +3
+Tracker Charm  ; Scenthound +1
+Trickshot Charm  ; Dungmaster +1 ; Blindsider +1
+Trickshot Charm II ; Special Ammo Boost +2
+Thunder Charm I ; Thunder Resistance +1
+Thunder Charm II ; Thunder Resistance +2
+Thunder Charm III ; Thunder Resistance +3
+Unscathed Charm I ; Peak Performance +1
+Venom Charm I ; Poison Attack +1
+Venom Charm II ; Poison Attack +2
+Venom Charm III ; Poison Attack +3
+Venom Charm IV ; Poison Attack +4
+Water Charm I ; Water Resistance +1
+Water Charm II ; Water Resistance +2
+Water Charm III ; Water Resistance +3
+Whetstone Charm I ; Speed Sharpening +1
+Whetstone Charm II ; Speed Sharpening +2
+Whetstone Charm III ; Speed Sharpening +3
+Windproof Charm I ; Windproof +1
+Windproof Charm II ; Windproof +2
+Windproof Charm III ; Windproof +3
+Windproof Charm IV ; Windproof +4
+Wyrmsbane Charm I ; Dragon Attack +1
+Wyrmsbane Charm II ; Dragon Attack +2
+Wyrmsbane Charm III ; Dragon Attack +3
+Wyrmslayer Charm  ; Elderseal Boost +1 ; Dragon Attack +1
+Razor Sharp Charm  ; Razor Sharp/Spare Shot +1
+Adamantine Charm  ; Non-Elemental Boost +1 ; Bludgeoner +1

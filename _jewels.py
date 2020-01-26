@@ -1,17 +1,19 @@
 import re
-from _skillmanager import Skill,Duplicates
+from _skillmanager import Skill,Duplicates,SkillList
+
+def splitname(text):
+    return text[:-2],text[-1:]
 
 def parse_jewels(reg,dupes):
-    item=Skill(reg[0])
+    item=Skill(*splitname(reg[0]))
     if item.fulln() in dupes.jewels_names:
         return ""
-    skill1=Skill(reg[1])
+    sl=SkillList()
+    sl.add(splitname(reg[1]))
     if len(reg)>3:
-        skill2=Skill(reg[2])
-    else:
-        skill2=Skill("")
-    dupes.checkskills(skill1,skill2)
-    skills='  skills: {{{}}},\n'.format(skill1.s(skill2))
+        sl.add(splitname(reg[2]))
+    dupes.checkskills(sl)
+    skills='  skills: {{{}}},\n'.format(sl)
     slots="  slots: 1,\n"
     name= '  name: "{s.name} {s.level}",\n'.format(s=item)
     public_name='  public_name: "{s.name}",\n'.format(s=item)
@@ -31,3 +33,6 @@ def generate_jewels(dupes):
             jewel_nb+=1
             f.write(parse_jewels(mat,dupes))
     print("Finished Jewels {} done. Saved in {}".format(jewel_nb,jewels_out))
+
+if __name__ == '__main__':
+    generate_jewels(Duplicates())
