@@ -25,14 +25,27 @@ class Skill(object):
             return str(self)+', '+str(text)
         return str(self)
 
+    def fulln(self):
+        return "{s.name} {s.level}".format(s=self)
+
+
+def findnames(path):
+    "Apply a regex to return all 'name' in the file"
+    reg=re.compile('name.?:\s*"(?P<name>[A-z/ ]* \d)"')
+    # reg=re.compile('name: "(?P<name>[A-z/ ]*) \d"')
+    with open(path) as f:
+        ret=reg.findall(f.read())
+    return ret
 
 def name_level(text):
     name,level=text[:-2],text[-1:]
     # assert(int(level) in range(1,9))
     return name,level
 
-def parse_jewels(reg):
+def parse_jewels(reg,jewel_presents):
     item=Skill(reg[0])
+    if item.fulln() in jewel_presents:
+        return ""
     skill1=Skill(reg[1])
     if len(reg)>3:
         skill2=Skill(reg[2])
@@ -45,20 +58,22 @@ def parse_jewels(reg):
     level="  level: {s.level}\n".format(s=item)
     return "{\n"+skills+slots+name+public_name+level+'},\n'
 
-def generate_jewels(jewel_path):
+def generate_jewels():
+    jewels_out="output/jewels_gen.js"
     jewel_nb=0
+    jewel_path="data/Jewels.txt"
+    jewel_presents=findnames("base/decos.js")
     jewel_re=re.compile("""^(?P<name>[A-z/ ]* \d)\n(?P<skill1>[A-z/ ]* \d)\n(?P<skill2>[A-z/ ]* \d)?\n?([ \t\d.%]*)""",re.MULTILINE)
     with open(jewel_path) as f:
         text=f.read()
         matches=jewel_re.findall(text)
-    with open("jewels_gen.js","w") as f:
+    with open(jewels_out,"w") as f:
         for mat in matches:
             jewel_nb+=1
-            f.write(parse_jewels(mat))
-    print("Finished Jewels {} done".format(jewel_nb))
+            f.write(parse_jewels(mat,jewel_presents))
+    print("Finished Jewels {} done. Saved in {}".format(jewel_nb,jewels_out))
 
 if __name__ == '__main__':
     start_time = time.time()
-    jewel_path="Jewels.txt"
-    generate_jewels(jewel_path)
+    generate_jewels()
     print("All generations done. Time elapsed {}".format(time.time()-start_time))
