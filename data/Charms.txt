@@ -188,9 +188,9 @@ Mighty Charm II ; Maximum Might +2
 Mud Puppy Charm  ; Muck Resistance +1 ; Leap of Faith +1
 Mushroom Charm I ; Mushroomancer +1
 Mushroom Charm II ; Mushroomancer +2
-Mirewalker Charm I ; Aquatic Expert +1
-Mirewalker Charm II ; Aquatic Expert +2
-Mirewalker Charm III ; Aquatic Expert +3
+Mirewalker Charm I ; Aquatic/Polar Mobility +1
+Mirewalker Charm II ; Aquatic/Polar Mobility +2
+Mirewalker Charm III ; Aquatic/Polar Mobility +3
 Normal Shots Charm  ; Normal Shots +1
 Normal Shots Charm II ; Normal Shots +2
 Para Coating Charm  ; Para Functionality +1
@@ -240,9 +240,9 @@ Special Shot Charm II ; Special Ammo Boost +2
 Stealth Charm I ; Stealth +1
 Stealth Charm II ; Stealth +2
 Stealth Charm III ; Stealth +3
-Smoke Charm I ; Sporepuff Expert +1
-Smoke Charm II ; Sporepuff Expert +2
-Smoke Charm III ; Sporepuff Expert +3
+Smoke Charm I ; Survival Expert +1
+Smoke Charm II ; Survival Expert +2
+Smoke Charm III ; Survival Expert +3
 Stun Charm I ; Stun Resistance +1
 Stun Charm II ; Stun Resistance +2
 Stun Charm III ; Stun Resistance +3

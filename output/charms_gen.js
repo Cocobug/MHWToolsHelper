@@ -2192,7 +2192,7 @@
         mindef: 0,
         slots: 0,
         name: "Mirewalker Charm",
-        skills: { "Aquatic Expert": 1 },
+        skills: { "Aquatic/Polar Mobility": 1 },
         type: 3
     }
 ][
@@ -2205,7 +2205,7 @@
         mindef: 0,
         slots: 0,
         name: "Mirewalker Charm",
-        skills: { "Aquatic Expert": 2 },
+        skills: { "Aquatic/Polar Mobility": 2 },
         type: 3
     }
 ][
@@ -2218,7 +2218,7 @@
         mindef: 0,
         slots: 0,
         name: "Mirewalker Charm",
-        skills: { "Aquatic Expert": 3 },
+        skills: { "Aquatic/Polar Mobility": 3 },
         type: 3
     }
 ][
@@ -2829,7 +2829,7 @@
         mindef: 0,
         slots: 0,
         name: "Smoke Charm",
-        skills: { "Sporepuff Expert": 1 },
+        skills: { "Survival Expert": 1 },
         type: 3
     }
 ][
@@ -2842,7 +2842,7 @@
         mindef: 0,
         slots: 0,
         name: "Smoke Charm",
-        skills: { "Sporepuff Expert": 2 },
+        skills: { "Survival Expert": 2 },
         type: 3
     }
 ][
@@ -2855,7 +2855,7 @@
         mindef: 0,
         slots: 0,
         name: "Smoke Charm",
-        skills: { "Sporepuff Expert": 3 },
+        skills: { "Survival Expert": 3 },
         type: 3
     }
 ][

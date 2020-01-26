@@ -32,9 +32,9 @@ var _skills = [
                 { skill: "Scholar", points: 1, type: 1, name: "Scholar Lv1" },
                 { skill: "Scoutfly Range Up", points: 1, type: 1, name: "Scoutfly Range Up Lv1" },
                 { skill: "Speed Crawler", points: 1, type: 1, name: "Speed Crawler Lv1" },
-                { skill: "Sporepuff Expert", points: 1, type: 1, name: "Sporepuff Expert Lv1" },
-                { skill: "Sporepuff Expert", points: 2, type: 1, name: "Sporepuff Expert Lv2" },
-                { skill: "Sporepuff Expert", points: 3, type: 1, name: "Sporepuff Expert Lv3" },
+                { skill: "Survival Expert", points: 1, type: 1, name: "Survival Expert Lv1" },
+                { skill: "Survival Expert", points: 2, type: 1, name: "Survival Expert Lv2" },
+                { skill: "Survival Expert", points: 3, type: 1, name: "Survival Expert Lv3" },
             ]
         },
         {
@@ -77,9 +77,9 @@ var _skills = [
         {
             genre: "sg_survival",
             skills: [
-                { skill: "Aquatic Expert", points: 1, type: 1, name: "Aquatic Expert Lv1" },
-                { skill: "Aquatic Expert", points: 2, type: 1, name: "Aquatic Expert Lv2" },
-                { skill: "Aquatic Expert", points: 3, type: 1, name: "Aquatic Expert Lv3" },
+                { skill: "Aquatic/Polar Mobility", points: 1, type: 1, name: "Aquatic/Polar Mobility Lv1" },
+                { skill: "Aquatic/Polar Mobility", points: 2, type: 1, name: "Aquatic/Polar Mobility Lv2" },
+                { skill: "Aquatic/Polar Mobility", points: 3, type: 1, name: "Aquatic/Polar Mobility Lv3" },
                 { skill: "Blight Resistance", points: 1, type: 1, name: "Blight Resistance Lv1" },
                 { skill: "Blight Resistance", points: 2, type: 1, name: "Blight Resistance Lv2" },
                 { skill: "Blight Resistance", points: 3, type: 1, name: "Blight Resistance Lv3" },

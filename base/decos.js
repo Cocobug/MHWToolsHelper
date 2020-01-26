@@ -623,17 +623,17 @@ var _decos = [
             level: 1
 		},
         {
-            skills: { "Sporepuff Expert": 1 },
+            skills: { "Survival Expert": 1 },
             slots: 1,
             name: "Smoke Jewel 1",
-            public_name: "Sporepuff Expert",
+            public_name: "Survival Expert",
             level: 1
         },
         {
-            skills: { "Aquatic Expert": 1 },
+            skills: { "Aquatic/Polar Mobility": 1 },
             slots: 1,
             name: "Mirewalker Jewel 1",
-            public_name: "Aquatic Expert",
+            public_name: "Aquatic/Polar Mobility",
             level: 1
         },
         {
