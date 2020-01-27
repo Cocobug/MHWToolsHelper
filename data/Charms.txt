@@ -44,7 +44,7 @@ Challenger Charm I ; Agitator +1
 Challenger Charm II ; Agitator +2
 Challenger Charm III ; Agitator +3
 Challenger Charm IV ; Agitator +4
-Clearmind Charm Heat Guard  ; Effluvial Expert +1
+Clearmind Charm Heat Guard  ; Effluvia Expert +1
 Defense Charm I ; Defense Boost +1
 Defense Charm II ; Defense Boost +2
 Defense Charm III ; Defense Boost +3

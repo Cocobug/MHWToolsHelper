@@ -146,7 +146,7 @@
   level: 4
 },
 {
-  skills: {"Invalid Message": 1,"Constitution": 1},
+  skills: {"Stonethrower": 1,"Constitution": 1},
   slots: 1,
   name: "Stonethrower/Physique Jewel 4",
   public_name: "Stonethrower/Physique Jewel",
@@ -272,7 +272,7 @@
   level: 4
 },
 {
-  skills: {"Invalid Message": 1,"Evade Window": 1},
+  skills: {"Stonethrower": 1,"Evade Window": 1},
   slots: 1,
   name: "Stonethrower/Evasion Jewel 4",
   public_name: "Stonethrower/Evasion Jewel",
@@ -398,7 +398,7 @@
   level: 4
 },
 {
-  skills: {"Invalid Message": 1,"Attack Boost": 1},
+  skills: {"Stonethrower": 1,"Attack Boost": 1},
   slots: 1,
   name: "Stonethrower/Attack Jewel 4",
   public_name: "Stonethrower/Attack Jewel",
@@ -524,7 +524,7 @@
   level: 4
 },
 {
-  skills: {"Invalid Message": 1,"Critical Eye": 1},
+  skills: {"Stonethrower": 1,"Critical Eye": 1},
   slots: 1,
   name: "Stonethrower/Expert Jewel 4",
   public_name: "Stonethrower/Expert Jewel",
@@ -650,7 +650,7 @@
   level: 4
 },
 {
-  skills: {"Invalid Message": 1,"Free Elem/Ammo Up": 1},
+  skills: {"Stonethrower": 1,"Free Elem/Ammo Up": 1},
   slots: 1,
   name: "Stonethrower/Release Jewel 4",
   public_name: "Stonethrower/Release Jewel",
@@ -776,7 +776,7 @@
   level: 4
 },
 {
-  skills: {"Invalid Message": 1,"Handicraft": 1},
+  skills: {"Stonethrower": 1,"Handicraft": 1},
   slots: 1,
   name: "Stonethrower/Handicraft Jewel 4",
   public_name: "Stonethrower/Handicraft Jewel",

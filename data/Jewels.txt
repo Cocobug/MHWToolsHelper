@@ -224,7 +224,7 @@ Mighty Jewel 2
 Maximum Might 1
 		0.05% 	0.30% 	0.90% 		0.60% 	0.39%
 Stonethrower Jewel 1
-Invalid Message 1
+Stonethrower 1
 	0.43% 	0.97% 	2.34% 	2.20% 	1.51% 	0.60% 	0.39%
 Tip Toe Jewel 1
 Stealth 1
@@ -521,7 +521,7 @@ Free Meal 1
 Constitution 1
 					0.65% 	0.41%
 Stonethrower/Physique Jewel 4
-Invalid Message 1
+Stonethrower 1
 Constitution 1
 					0.65% 	0.41%
 Resistor/Physique Jewel 4
@@ -597,7 +597,7 @@ Free Meal 1
 Evade Window 1
 					0.65% 	0.41%
 Stonethrower/Evasion Jewel 4
-Invalid Message 1
+Stonethrower 1
 Evade Window 1
 					0.65% 	0.41%
 Resistor/Evasion Jewel 4
@@ -673,7 +673,7 @@ Free Meal 1
 Attack Boost 1
 					0.65% 	0.41%
 Stonethrower/Attack Jewel 4
-Invalid Message 1
+Stonethrower 1
 Attack Boost 1
 					0.65% 	0.41%
 Resistor/Attack Jewel 4
@@ -749,7 +749,7 @@ Free Meal 1
 Critical Eye 1
 					0.65% 	0.41%
 Stonethrower/Expert Jewel 4
-Invalid Message 1
+Stonethrower 1
 Critical Eye 1
 					0.65% 	0.41%
 Resistor/Expert Jewel 4
@@ -825,7 +825,7 @@ Free Meal 1
 Free Elem/Ammo Up 1
 					0.09% 	0.25% 	0.37%
 Stonethrower/Release Jewel 4
-Invalid Message 1
+Stonethrower 1
 Free Elem/Ammo Up 1
 					0.09% 	0.25% 	0.37%
 Resistor/Release Jewel 4
@@ -901,7 +901,7 @@ Free Meal 1
 Handicraft 1
 					0.09% 	0.25% 	0.37%
 Stonethrower/Handicraft Jewel 4
-Invalid Message 1
+Stonethrower 1
 Handicraft 1
 					0.09% 	0.25% 	0.37%
 Resistor/Handicraft Jewel 4

@@ -679,10 +679,10 @@ var _decos = [
             level: 1
         },
         {
-            skills: { "Effluvial Resistance": 1 },
+            skills: { "Effluvia Resistance": 1 },
             slots: 1,
             name: "Miasma Jewel 1",
-            public_name: "Effluvial Resistance",
+            public_name: "Effluvia Resistance",
             level: 1
         },
         { skills: { "LV1 Slot Skill": 1 }, slots: 1, name: "Jewel 1", public_name: "LV1 Slot Skill", level: 1 },
