@@ -36,18 +36,25 @@ class Skill(object):
         return '"{self.name}": {self.level}'.format(self=self)
 
     def fulln(self):
+        if self.level=="":
+            return self.name
         return "{s.name} {s.level}".format(s=self)
 
-# class Charm(object):
-#     pass
+    def savename(self):
+        level=self.level
+        if level=="":
+            level="I"
+        return self.name.replace("'","").replace(" ","").replace("-","").replace("/","")+level
+
 
 class Duplicates(object):
     """Find all existing skils, for duplicates."""
 
     def __init__(self):
-        self.name_re=re.compile('name.?:\s*"(?P<name>[A-z/ ]* \d)"')
-        self.charm_name_re=re.compile('name.?:\s*"(?P<name>[A-z/ ]* [IV]+)"')
+        self.name_re=re.compile('name.?:\s*"(?P<name>[A-z/ \-]* \d)"')
+        self.charm_name_re=re.compile('name.?:\s*"(?P<name>[A-z/ \'\-]* ?[IV]{0,4})"')
         self.skill_re=re.compile('{ skill: "(?P<name>[A-z/ \-]*)",')
+        # name: "Blast Functionality Charm",
 
         self.jewels_names = self.findnames("base/decos.js")
         self.charms_names = self.findnamesinfolder("C:/MAMP/htdocs/MHWTools/armorcalc/armors/CH")
@@ -65,7 +72,8 @@ class Duplicates(object):
         for file in os.listdir(path):
             file=path+"/"+file
             with open(file) as f:
-                # print(self.name_re.findall(f.read()))
+                # if self.charm_name_re.findall(f.read())==[]:
+                #     print("Couldn't parse",file)
                 fullnames+=self.charm_name_re.findall(f.read())
         return fullnames
 

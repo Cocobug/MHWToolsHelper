@@ -12,5 +12,5 @@ if __name__ == '__main__':
     start_time = time.time()
     duplicates=Duplicates()
     generate_jewels(duplicates)
-    # generate_charms(duplicates)
+    generate_charms(duplicates)
     print("All generations done. Time elapsed {}".format(time.time()-start_time))

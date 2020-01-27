@@ -235,7 +235,7 @@ Slinger Charm III ; Slinger Capacity +3
 Speed Heal Charm I ; Recovery Speed +1
 Speed Heal Charm II ; Recovery Speed +2
 Speed Heal Charm III ; Recovery Speed +3
-Special Shot Charm  ; Special Ammo Boost +1
+Special Shot Charm I ; Special Ammo Boost +1
 Special Shot Charm II ; Special Ammo Boost +2
 Stealth Charm I ; Stealth +1
 Stealth Charm II ; Stealth +2
@@ -256,7 +256,7 @@ Tranq Charm IV ; Sleep Attack +4
 Tremor Charm I ; Tremor Resistance +1
 Tremor Charm II ; Tremor Resistance +2
 Tremor Charm III ; Tremor Resistance +3
-Tracker Charm  ; Scenthound +1
+Tracker Charm  ; Scent Hound +1
 Trickshot Charm  ; Dungmaster +1 ; Blindsider +1
 Trickshot Charm II ; Special Ammo Boost +2
 Thunder Charm I ; Thunder Resistance +1
