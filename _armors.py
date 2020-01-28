@@ -5,16 +5,19 @@ import re,os
 class Armor(object):
     """Armor object, contains all parts"""
 
-    def __init__(self, path):
+    def __init__(self, path,partpath):
+        allparts=[partpath+p.split('/')[-1] for p in path]
         self.helm=None
         self.chest=None
         self.arms=None
         self.waist=None
         self.legs=None
-        self.loadfromurl(url)
+        self.loadfrompath(allparts)
 
-    def loadfromurl(self,url):
-        pass
+    def loadfrompath(self,allpaths):
+        for path in allpaths:
+            with open(path) as f:
+                soup=BeautifulSoup(f.read(),"lxml")
 
 class Part(object):
     """Part of an armor, contain all data needed to output a skill."""
@@ -25,7 +28,7 @@ class Part(object):
 
 def download_armor(url,folder):
     "Take an url and prepare to make an armor Object"
-    name=url.split("/")[-1].replace(" ","").replace("+++"," ").replace("+","").replace(" ","+")
+    name=url.split("/")[-1].replace(" ","")#.replace("+++"," ").replace("+","").replace(" ","+")
     fullpath=folder+name
     if os.path.exists(fullpath):
         return 0
@@ -42,7 +45,7 @@ def download_armor(url,folder):
     return 1
 
 def prettyname(url):
-    return url.split("/")[-1].replace(" ","").replace("+++"," ").replace("+","").replace(" ","+")
+    return url.split("/")[-1].replace(" ","")#.replace("+++"," ").replace("+","").replace(" ","+")
 
 def download_all(listurl,folder,verbose=True,context=""):
     if verbose:
@@ -67,6 +70,7 @@ def download_all(listurl,folder,verbose=True,context=""):
         for e in errors:
             print("    "+e)
         print("")
+    return nb_error
 
 def findallarmors(path):
     "Takes the base page of fextralife and output a list of everything to be downloaded"
@@ -82,23 +86,57 @@ def findparts(file):
         html_doc=f.read()
     soup=BeautifulSoup(html_doc,"lxml")
     wiki=soup.find_all("table","wiki_table")[1] # Should use a custom check, idc, fight me
-    return([_BASEURL+"/"+l["href"].split("/")[-1] for l in wiki.find_all("a")]) # Very twitchy
+    return([_BASEURL+"/"+l["href"].split("/")[-1] for l in wiki.find_all("a") if l["href"] not in "/n/a"] ) # Very twitchy
 
 def findallparts(folder,savefolder):
+    ge=0
+    armors=[]
     for file in os.listdir(folder):
         parts=findparts(folder+file)
         try:
-            download_all(parts,savefolder,verbose=False,context=file)
+            r=download_all(parts,savefolder,verbose=False,context=file)
         except:
             print("Couldn't download",file)
+            r=1
 
+
+def make_all_from_armor(folder):
+    for file in os.listdir(folder):
+        try:
+            make_from_armor(folder+file)
+        except FileNotFoundError:
+            print("   No armor {} was found, skipping".format(file))
+
+def make_from_armor(path):
+    with open(path,encoding="utf-8") as f:
+        soup=BeautifulSoup(f.read(),"lxml")
+    name=path.split("/")[-1]
+    tables=(soup.find_all("table","wiki_table"))
+    armor_skills=tables[0]
+    armor_specs=tables[1]
+    first_skill=armor_skills.find(string="Skills").find_parent("tr")
+    first_skill=first_skill.next_sibling.next_sibling
+    if first_skill.find(string="BNS")!=None:
+        # print(first_skill.find(string=re.compile(".*piece")))
+        set_skill=findsetskill(first_skill.find_all("td")[1])
+    else:
+        # print(first_skill.find(string=re.compile(".*piece")))
+        set_skill=None
+    print("  ",name,"set:",set_skill)
+
+def findsetskill(tag):
+    try:
+        set_skill=tag.contents
+        if set_skill==['no bonus'] or set_skill == ['none']:
+            print("nope")
+            return None
+    except:
+        set_skill="NOPE"
+    return set_skill
 _BASEURL="https://monsterhunterworld.wiki.fextralife.com"
 if __name__ == '__main__':
-    # download_all(["https://monsterhunterworld.wiki.fextralife.com/Acidic+Glavenus+Alpha+++Armor+Set"
-    #
-    # ])
     armors=findallarmors("data/MasterRankArmor")
     download_all(armors,"data/Armors/")
-
-    parts=findallparts("data/Armors/","data/Parts/")
-    # Armor("")
+    make_all_from_armor("data/Armors/")
+    make_from_armor("data/Armors/Lunastra+Beta+++Armor+Set")
+    # parts=findallparts("data/Armors/","data/Parts/")

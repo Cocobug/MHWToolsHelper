@@ -5,24 +5,6 @@ Print 5 errors in https://monsterhunterworld.wiki.fextralife.com/Astral+Tights+A
     https://monsterhunterworld.wiki.fextralife.com/Astral+Skirt+Alpha++
     https://monsterhunterworld.wiki.fextralife.com/Astral+Tights+Alpha++
 
-Print 4 errors in https://monsterhunterworld.wiki.fextralife.com/a (called from BarnosAlpha+ArmorSet)
-    https://monsterhunterworld.wiki.fextralife.com/a
-    https://monsterhunterworld.wiki.fextralife.com/a
-    https://monsterhunterworld.wiki.fextralife.com/a
-    https://monsterhunterworld.wiki.fextralife.com/a
-
-Print 4 errors in https://monsterhunterworld.wiki.fextralife.com/a (called from BarnosBeta+ArmorSet)
-    https://monsterhunterworld.wiki.fextralife.com/a
-    https://monsterhunterworld.wiki.fextralife.com/a
-    https://monsterhunterworld.wiki.fextralife.com/a
-    https://monsterhunterworld.wiki.fextralife.com/a
-
-Print 4 errors in https://monsterhunterworld.wiki.fextralife.com/a (called from CortosAlpha+ArmorSet)
-    https://monsterhunterworld.wiki.fextralife.com/a
-    https://monsterhunterworld.wiki.fextralife.com/a
-    https://monsterhunterworld.wiki.fextralife.com/a
-    https://monsterhunterworld.wiki.fextralife.com/a
-
 Couldn't download CortosBeta+ArmorSet
 Print 1 errors in https://monsterhunterworld.wiki.fextralife.com/Death+Garon+Greaves++Alpha++ (called from DeathGaronAlpha+ArmorSet)
     https://monsterhunterworld.wiki.fextralife.com/Death+Garon+Greaves++Alpha++
@@ -36,42 +18,6 @@ Print 5 errors in https://monsterhunterworld.wiki.fextralife.com/NAME+Greaves (c
 
 Print 1 errors in https://monsterhunterworld.wiki.fextralife.com/Fulgur+Greaves+Beta++ (called from FulgurAnjaBeta+ArmorSet)
     https://monsterhunterworld.wiki.fextralife.com/Fulgur+Mail+Beta++
-
-Print 4 errors in https://monsterhunterworld.wiki.fextralife.com/Gajau+Boots+Alpha++ (called from GajauAlpha+ArmorSet)
-    https://monsterhunterworld.wiki.fextralife.com/a
-    https://monsterhunterworld.wiki.fextralife.com/a
-    https://monsterhunterworld.wiki.fextralife.com/a
-    https://monsterhunterworld.wiki.fextralife.com/a
-
-Print 4 errors in https://monsterhunterworld.wiki.fextralife.com/Gajau+Boots+Beta++ (called from GajauBeta+ArmorSet)
-    https://monsterhunterworld.wiki.fextralife.com/a
-    https://monsterhunterworld.wiki.fextralife.com/a
-    https://monsterhunterworld.wiki.fextralife.com/a
-    https://monsterhunterworld.wiki.fextralife.com/a
-
-Print 4 errors in https://monsterhunterworld.wiki.fextralife.com/a (called from GastodonAlpha+ArmorSet)
-    https://monsterhunterworld.wiki.fextralife.com/a
-    https://monsterhunterworld.wiki.fextralife.com/a
-    https://monsterhunterworld.wiki.fextralife.com/a
-    https://monsterhunterworld.wiki.fextralife.com/a
-
-Print 4 errors in https://monsterhunterworld.wiki.fextralife.com/a (called from GastodonBeta+ArmorSet)
-    https://monsterhunterworld.wiki.fextralife.com/a
-    https://monsterhunterworld.wiki.fextralife.com/a
-    https://monsterhunterworld.wiki.fextralife.com/a
-    https://monsterhunterworld.wiki.fextralife.com/a
-
-Print 4 errors in https://monsterhunterworld.wiki.fextralife.com/a (called from KestodonAlpha+ArmorSet)
-    https://monsterhunterworld.wiki.fextralife.com/a
-    https://monsterhunterworld.wiki.fextralife.com/a
-    https://monsterhunterworld.wiki.fextralife.com/a
-    https://monsterhunterworld.wiki.fextralife.com/a
-
-Print 4 errors in https://monsterhunterworld.wiki.fextralife.com/a (called from KestodonBeta+ArmorSet)
-    https://monsterhunterworld.wiki.fextralife.com/a
-    https://monsterhunterworld.wiki.fextralife.com/a
-    https://monsterhunterworld.wiki.fextralife.com/a
-    https://monsterhunterworld.wiki.fextralife.com/a
 
 Print 4 errors in https://monsterhunterworld.wiki.fextralife.com/Leon’s+Legs+Alpha+ (called from LeonAlpha+ArmorSet)
     https://monsterhunterworld.wiki.fextralife.com/Leon’s+Body+Alpha++
@@ -89,32 +35,8 @@ Print 5 errors in https://monsterhunterworld.wiki.fextralife.com/NAME+Greaves (c
     https://monsterhunterworld.wiki.fextralife.com/NAME+Coil
     https://monsterhunterworld.wiki.fextralife.com/NAME+Greaves
 
-Print 4 errors in https://monsterhunterworld.wiki.fextralife.com/a (called from ShamosAlpha+ArmorSet)
-    https://monsterhunterworld.wiki.fextralife.com/a
-    https://monsterhunterworld.wiki.fextralife.com/a
-    https://monsterhunterworld.wiki.fextralife.com/a
-    https://monsterhunterworld.wiki.fextralife.com/a
-
-Print 4 errors in https://monsterhunterworld.wiki.fextralife.com/a (called from ShamosBeta+ArmorSet)
-    https://monsterhunterworld.wiki.fextralife.com/a
-    https://monsterhunterworld.wiki.fextralife.com/a
-    https://monsterhunterworld.wiki.fextralife.com/a
-    https://monsterhunterworld.wiki.fextralife.com/a
-
 Print 1 errors in https://monsterhunterworld.wiki.fextralife.com/Shara+Ishvalda+Greaves+Alpha++ (called from SharaIshvaldaAlpha+ArmorSet)
     https://monsterhunterworld.wiki.fextralife.com/shara_ishvalda_braces_alpha_plus_male_mhw-wiki-guide.png
-
-Print 4 errors in https://monsterhunterworld.wiki.fextralife.com/a (called from WulgAlpha+ArmorSet)
-    https://monsterhunterworld.wiki.fextralife.com/a
-    https://monsterhunterworld.wiki.fextralife.com/a
-    https://monsterhunterworld.wiki.fextralife.com/a
-    https://monsterhunterworld.wiki.fextralife.com/a
-
-Print 4 errors in https://monsterhunterworld.wiki.fextralife.com/a (called from WulgBeta+ArmorSet)
-    https://monsterhunterworld.wiki.fextralife.com/a
-    https://monsterhunterworld.wiki.fextralife.com/a
-    https://monsterhunterworld.wiki.fextralife.com/a
-    https://monsterhunterworld.wiki.fextralife.com/a
 
 Print 5 errors in https://monsterhunterworld.wiki.fextralife.com/NAME+Greaves (called from WyverianEarsAlpha+ArmorSet)
     https://monsterhunterworld.wiki.fextralife.com/NAME+Helm
