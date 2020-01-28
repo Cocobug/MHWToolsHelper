@@ -14,11 +14,16 @@ class Armor(object):
     def addpart(self,part_name,partobj):
         self.parts[part_name]=partobj
 
+    def getpart(self,nb):
+        if type(nb)==int:
+            return self.parts[_nb_to_part[nb]]
+        else:
+            return self.parts[nb]
     def __str__(self):
-        return '{\n'+',\n'.join([str(self.parts[p]) for p in _nb_to_part])+'\n}'
+        return '{\n'+',\n'.join([str(self.parts[p]) for p in _nb_to_part if self.parts[p] != None])+'\n}'
 
     def save(self,path):
-        with open(path+self.savename+".js","w") as f:
+        with open(path+self.savename+"+.js","w") as f:
             f.write(str(self))
 
 _nb_to_part=["helm","torso","arm","waist","feet"]
@@ -145,7 +150,7 @@ def make_from_armor(path):
 
     ### Ading the set skill
     arm=Armor(name)
-    tables=(soup.find_all("table","wiki_table"))
+    tables=soup.find_all("table","wiki_table")
     armor_skills=tables[0]
     armor_specs=tables[1]
     first_skill=armor_skills.find(string="Skills").find_parent("tr")
@@ -153,6 +158,13 @@ def make_from_armor(path):
     if first_skill.find(string="BNS")!=None:
         set_skill=findsetskill(first_skill.find_all("td")[1],name)
         arm.set_skill=set_skill
+
+    ### Max armor value
+    augmented_armor=soup.find(string=re.compile(".*Augmented"))
+    if augmented_armor==None or "__augmented" in augmented_armor or "??" in augmented_armor:
+        augmented_armor=0 # BIG ERROR YOU NEED TO ADD IT BY HAND
+    else:
+        augmented_armor=int(augmented_armor.split("with ")[-1][:3])
 
     ### Adding all skills
     for tr in first_skill.find_next_siblings("tr"):
@@ -176,16 +188,31 @@ def make_from_armor(path):
 
         arm.addpart(part_name,part)
 
-    # print(arm)
+    ### Updating all values and gems:
+    all_lines=armor_specs.tbody.find_all("tr")
+    i=0
+    if len(all_lines)!=5:
+        print("No info was retreived in",name)
+        return arm# returning armor as is, as it can't be finished
+    for line in all_lines:
+        row=line.find_all('td')
+        if len(row)!=8:
+            print("Can't find rows in",name)
+            return arm # returning armor as is, as it can't be finished
+        else:
+            gems=row[2]
+            part=arm.getpart(i)
+            if part!=None: # This part doen't exists, move along
+                part.maxdef=augmented_armor
+                part.mindef=row[1].contents[0]
+                part.resists=[int(i.contents[0]) for i in row[3:]] # Yeah, n/a will make this crash
+                if '??' in part.resists:
+                    print(part.resists,"in",name)
+            # else:
+            #     print("No part",_nb_to_part[i],"in",name)
 
-        # skills=tr.td.next_sibling.next_sibling.find_all("a")
-        # # print(skills)
-        # values=tr.td.next_sibling.next_sibling.find_all(string=re.compile("x?(\d)x?"))
-        # if len(skills)!=len(values):
-        #     print (path,len(skills),len(values),skills,values)
-        # all_parts=first_skill.find_siblings(string=re.compile(".*wiki"))
-    # print(all_parts)
-    # print("  ",name,"set:",set_skill)
+        i+=1
+
     return arm
 
 def findsetskill(tag,context):
@@ -207,7 +234,9 @@ if __name__ == '__main__':
     armors=findallarmors("data/MasterRankArmor")
     download_all(armors,"data/Armors/")
     armors=make_all_from_armor("data/Armors/")
+
     for a in armors:
         a.save("data/HR/")
-    make_from_armor("data/Armors/Lunastra+Beta+++Armor+Set")
-    # parts=findallparts("data/Armors/","data/Parts/")
+    with open("data/HR/index.js","w") as f:
+        f.write('{{\n{}\n}}'.format(",\n".join(['   "{}"'.format(a.savename) for a in armors])))
+    # make_from_armor("data/Armors/Kestodon+Beta+++Armor+Set").save("data/")
