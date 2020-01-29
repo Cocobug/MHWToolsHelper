@@ -92,7 +92,7 @@ class Duplicates(object):
                 self.already_pending_skills+=[skill.name]
                 self.add_skill(skill)
 
-    def add_skill(self,skill,lvl=1):
+    def add_skill(self,skill,lvl=5):
         for i in range(lvl):
             self.duplicate_skills_f.write("""                {{ skill: "{skill}", points: {i}, type: 1, name: "{skill} Lv{i}" }},\n""".format(skill=skill.name,i=i+1))
 

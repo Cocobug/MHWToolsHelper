@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 import re,os
-from _skillmanager import SkillList,Skill
+from _skillmanager import SkillList,Skill,Duplicates
 
 class Armor(object):
     """Armor object, contains all parts"""
@@ -20,10 +20,10 @@ class Armor(object):
         else:
             return self.parts[nb]
     def __str__(self):
-        return '{\n'+',\n'.join([str(self.parts[p]) for p in _nb_to_part if self.parts[p] != None])+'\n}'
+        return '[\n'+',\n'.join([str(self.parts[p]) for p in _nb_to_part if self.parts[p] != None])+'\n]'
 
     def save(self,path):
-        with open(path+self.savename+"+.js","w") as f:
+        with open(path+self.savename+".js","w") as f:
             f.write(str(self))
 
 _nb_to_part=["helm","torso","arm","waist","feet"]
@@ -38,7 +38,7 @@ class Part(object):
         self.resists=[]
         self.mindef=0
         self.maxdef=0
-        self.slotlevels=[]
+        self.slotlevels=[0, 0, 0]
         self.nbslots=0
 
     def setname(self,path):
@@ -73,7 +73,7 @@ def download_armor(url,folder):
     return 1
 
 def prettyname(url):
-    return url.split("/")[-1].replace(" ","").replace("+","").replace("Armor","").replace("Set","")
+    return url.split("/")[-1].replace(" ","").replace("+","").replace("Armor","").replace("Set","").replace("Alpha","A").replace("Beta","B")+"P"
 
 def partname(url):
     return url.split("/")[-1].replace(" ","").replace("+","").replace("Armor","").replace("Set","")
@@ -130,9 +130,10 @@ def findallparts(folder,savefolder):
 
 def make_all_from_armor(folder):
     ret=[]
+    dupes=Duplicates()
     for file in os.listdir(folder):
         try:
-            armor=make_from_armor(folder+file)
+            armor=make_from_armor(folder+file,dupes)
             if armor!=None:
                 ret+=[armor]
             else:
@@ -141,7 +142,8 @@ def make_all_from_armor(folder):
             print("   No armor {} was found, skipping".format(file))
     return ret
 
-def make_from_armor(path):
+_just_that_int=re.compile(".*(\d).*")
+def make_from_armor(path,dupes):
     convertion={}
     set_skill=None
     with open(path,encoding="utf-8") as f:
@@ -185,12 +187,12 @@ def make_from_armor(path):
             skills.add((set_skill,'1'))
         part.skills=skills
         part.setname(name)
-
+        dupes.checkskills(skills)
         arm.addpart(part_name,part)
 
     ### Updating all values and gems:
     all_lines=armor_specs.tbody.find_all("tr")
-    i=0
+    part_i=0
     if len(all_lines)!=5:
         print("No info was retreived in",name)
         return arm# returning armor as is, as it can't be finished
@@ -201,17 +203,25 @@ def make_from_armor(path):
             return arm # returning armor as is, as it can't be finished
         else:
             gems=row[2]
-            part=arm.getpart(i)
+            part=arm.getpart(part_i)
             if part!=None: # This part doen't exists, move along
                 part.maxdef=augmented_armor
                 part.mindef=row[1].contents[0]
                 part.resists=[int(i.contents[0]) for i in row[3:]] # Yeah, n/a will make this crash
                 if '??' in part.resists:
                     print(part.resists,"in",name)
-            # else:
-            #     print("No part",_nb_to_part[i],"in",name)
-
-        i+=1
+                # else:
+                #     print("No part",_nb_to_part[i],"in",name)
+                list_gems=gems.find_all("img")
+                if(len(list_gems)!=0): # That's normal
+                #     print("No gems in",part.name,name)
+                    jewels=[int(_just_that_int.findall(g["src"].split("/")[-1])[0]) for g in list_gems] # Very unsafe, I love it
+                    nb_jewels=len(jewels)
+                    for unnamedvarsarebad in range(3-nb_jewels):
+                         jewels+=[0]
+                    part.slotlevels=jewels
+                    part.nbslots=nb_jewels
+        part_i+=1
 
     return arm
 
@@ -236,7 +246,7 @@ if __name__ == '__main__':
     armors=make_all_from_armor("data/Armors/")
 
     for a in armors:
-        a.save("data/HR/")
-    with open("data/HR/index.js","w") as f:
-        f.write('{{\n{}\n}}'.format(",\n".join(['   "{}"'.format(a.savename) for a in armors])))
-    # make_from_armor("data/Armors/Kestodon+Beta+++Armor+Set").save("data/")
+        a.save("C:/MAMP/htdocs/MHWTools/armorcalc/armors/MR/")
+    with open("C:/MAMP/htdocs/MHWTools/armorcalc/armors/MR/index.js","w") as f:
+        f.write('[\n{}\n]'.format(",\n".join(['   "{}"'.format(a.savename) for a in armors])))
+    # make_from_armor("data/Armors/Kestodon+Beta+++Armor+Set",Duplicates()).save("data/")
