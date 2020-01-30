@@ -1,0 +1,79 @@
+All errors :
+  Astral Helm Alpha + has no max def
+  Astral Torso Alpha + has no max def
+  Astral Arm Alpha + has no max def
+  Astral Waist Alpha + has no max def
+  Astral Feet Alpha + has no max def
+  Banbaro Helm Beta + has no max def
+  Banbaro Torso Beta + has no max def
+  Banbaro Arm Beta + has no max def
+  Banbaro Waist Beta + has no max def
+  Banbaro Feet Beta + has no max def
+  Buff Body Torso Alpha + has no max def
+  Buff Body Arm Alpha + has no max def
+  Buff Body Waist Alpha + has no max def
+  Buff Body Feet Alpha + has no max def
+  Dir Helm Beta + has no max def
+  Dir Torso Beta + has no max def
+  Dir Arm Beta + has no max def
+  Dir Waist Beta + has no max def
+  Dir Feet Beta + has no max def
+  Fulgur Anja Helm Beta + has no max def
+  Fulgur Anja Torso Beta + has no max def
+  Fulgur Anja Arm Beta + has no max def
+  Fulgur Anja Waist Beta + has no max def
+  Fulgur Anja Feet Beta + has no max def
+  Gajau Feet Beta + has no max def
+  Gastodon Helm Beta + has no max def
+  Oolong Helm Alpha + has no max def
+  Oolong Torso Alpha + has no max def
+  Oolong Arm Alpha + has no max def
+  Oolong Waist Alpha + has no max def
+  Oolong Feet Alpha + has no max def
+  No info was retreived in Pearlspring+Alpha++
+  Rath Heart Helm Alpha + has no max def
+  Rath Heart Torso Alpha + has no max def
+  Rath Heart Arm Alpha + has no max def
+  Rath Heart Waist Alpha + has no max def
+  Rath Heart Feet Alpha + has no max def
+  Rath Heart Helm Beta + has no max def
+  Rath Heart Torso Beta + has no max def
+  Rath Heart Arm Beta + has no max def
+  Rath Heart Waist Beta + has no max def
+  Rath Heart Feet Beta + has no max def
+  Ruiner Nergi Be Helm Beta + has no max def
+  Ruiner Nergi Be Torso Beta + has no max def
+  Ruiner Nergi Be Arm Beta + has no max def
+  Ruiner Nergi Be Waist Beta + has no max def
+  Ruiner Nergi Be Feet Beta + has no max def
+  Safi'jiiva Helm Alpha + has no max def
+  Safi'jiiva Torso Alpha + has no max def
+  Safi'jiiva Arm Alpha + has no max def
+  Safi'jiiva Waist Alpha + has no max def
+  Safi'jiiva Feet Alpha + has no max def
+  Safi'jiiva Helm Beta + has no max def
+  Safi'jiiva Torso Beta + has no max def
+  Safi'jiiva Arm Beta + has no max def
+  Safi'jiiva Waist Beta + has no max def
+  Safi'jiiva Feet Beta + has no max def
+  Shield-W Helm Beta + has no max def
+  Shield-W Torso Beta + has no max def
+  Shield-W Arm Beta + has no max def
+  Shield-W Waist Beta + has no max def
+  Shield-W Feet Beta + has no max def
+  Stygian Zin Helm Alpha + has no max def
+  Stygian Zin Torso Alpha + has no max def
+  Stygian Zin Arm Alpha + has no max def
+  Stygian Zin Waist Alpha + has no max def
+  Stygian Zin Feet Alpha + has no max def
+  Stygian Zin Helm Beta + has no max def
+  Stygian Zin Torso Beta + has no max def
+  Stygian Zin Arm Beta + has no max def
+  Stygian Zin Waist Beta + has no max def
+  Stygian Zin Feet Beta + has no max def
+  
+  Skill unknown in armor Direwolf+Armor+Set
+  Skill unknown in armor Duffel+Penguin+Mask+Alpha+++Armor+Set
+  No info was retreived in Pearlspring+Alpha++
+  Skill unknown in armor Sealed+Dragon+Cloth+Alpha+++Armor+Set
+  Skill unknown in armor Wyverian+Ears+Alpha+++Armor+Set

@@ -10,9 +10,12 @@ class Armor(object):
         self.savename=prettyname(name)
         self.set_skill=None
         self.parts={"helm":None,"torso":None,"arm":None,"waist":None,"feet":None}
+        self.empty=True
 
     def addpart(self,part_name,partobj):
         self.parts[part_name]=partobj
+        if partobj!=None:
+            self.empty=False
 
     def getpart(self,nb):
         if type(nb)==int:
@@ -21,6 +24,13 @@ class Armor(object):
             return self.parts[nb]
     def __str__(self):
         return '[\n'+',\n'.join([str(self.parts[p]) for p in _nb_to_part if self.parts[p] != None])+'\n]'
+
+    def check(self):
+        self.empty=True
+        for part in self.parts:
+            if self.parts[part]!=None:
+                if self.parts[part].check():
+                    self.empty=False
 
     def save(self,path):
         with open(path+self.savename+".js","w") as f:
@@ -40,6 +50,18 @@ class Part(object):
         self.maxdef=0
         self.slotlevels=[0, 0, 0]
         self.nbslots=0
+
+    def check(self):
+        if self.name=='':
+            print("Part",self.part_name,"has no name")
+        if self.skills=="":
+            print("  ",self.name,"has no skills")
+        if self.resists==[]:
+            print("  ",self.name,"has no resists")
+        if self.mindef==0:
+            print("  ",self.name,"has no def")
+        if self.maxdef==0:
+            print("  ",self.name,"has no max def")
 
     def setname(self,path):
         self.name=path.split("/")[-1].replace("Armor","").replace("Set","").replace("++","").replace("+"," ")
@@ -136,6 +158,7 @@ def make_all_from_armor(folder):
             armor=make_from_armor(folder+file,dupes)
             if armor!=None:
                 ret+=[armor]
+                #armor.check()
             else:
                 print(file,"coulnd't be processed")
         except FileNotFoundError:
@@ -212,6 +235,8 @@ def make_from_armor(path,dupes):
                     print(part.resists,"in",name)
                 # else:
                 #     print("No part",_nb_to_part[i],"in",name)
+                if "??" in gems.contents:
+                    print("Gems unknown in",name)
                 list_gems=gems.find_all("img")
                 if(len(list_gems)!=0): # That's normal
                 #     print("No gems in",part.name,name)
@@ -228,7 +253,10 @@ def make_from_armor(path,dupes):
 def findsetskill(tag,context):
     try:
         set_skill=tag.contents
-        if str(set_skill[0]).lower() in ['no bonus','none',"n/a","--","??"]:
+        if str(set_skill[0]).lower() in ['no bonus','none',"n/a","--"]:
+            return None
+        if str(set_skill[0]).lower()=="??":
+            print("Skill unknown in armor",context)
             return None
         lnk=tag.find("a")
         if lnk==None:
@@ -246,7 +274,8 @@ if __name__ == '__main__':
     armors=make_all_from_armor("data/Armors/")
 
     for a in armors:
+        # a.save("data/MR/")
         a.save("C:/MAMP/htdocs/MHWTools/armorcalc/armors/MR/")
-    with open("C:/MAMP/htdocs/MHWTools/armorcalc/armors/MR/index.js","w") as f:
+    with open("data/MR/index.js","w") as f:
         f.write('[\n{}\n]'.format(",\n".join(['   "{}"'.format(a.savename) for a in armors])))
-    # make_from_armor("data/Armors/Kestodon+Beta+++Armor+Set",Duplicates()).save("data/")
+    # make_from_armor("data/Armors/Shara+Ishvalda+Alpha+++Armor+Set",Duplicates()).save("data/")
