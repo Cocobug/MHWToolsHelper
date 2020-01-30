@@ -1,23 +1,23 @@
 Find max armor value in :
-  Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Astral+Alpha+++Armor+Set
-  Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Banbaro+Beta+++Armor+Set
-  Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Buff+Body+Alpha+++Armor+Set
-  Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Direwolf+Armor+Set
-  Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Duffel+Penguin+Mask+Alpha+++Armor+Set
-  Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Fulgur+Anja+Beta+++Armor+Set
-  Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Gajau+Beta+++Armor+Set
-  Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Gastodon+Beta+++Armor+Set
+  Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Astral+Alpha+++Armor+Set    156 lvl 9
+  Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Banbaro+Beta+++Armor+Set    146 ?
+  Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Buff+Body+Alpha+++Armor+Set     X
+  Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Direwolf+Armor+Set              X
+  Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Duffel+Penguin+Mask+Alpha+++Armor+Set   X
+  Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Fulgur+Anja+Beta+++Armor+Set       162 ?
+  Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Gajau+Beta+++Armor+Set             132 ?
+  Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Gastodon+Beta+++Armor+Set          132 ?
   Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Oolong+Alpha+++Armor+Set
-  Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Rath+Heart+Alpha+++Armor+Set
-  Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Rath+Heart+Beta+++Armor+Set
+  Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Rath+Heart+Alpha+++Armor+Set       132--146 ?
+  Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Rath+Heart+Beta+++Armor+Set       132--146 ?
   Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Ruiner+Nergi+Beta+++Armor+set
-  Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Safi'jiiva+Alpha+++Armor+Set
-  Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Safi'jiiva+Beta+++Armor+Set
-  Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Sealed+Dragon+Cloth+Alpha+++Armor+Set
-  Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Shield-Weaver+++Armor+Set
+  Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Safi'jiiva+Alpha+++Armor+Set      X
+  Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Safi'jiiva+Beta+++Armor+Set       X
+  Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Sealed+Dragon+Cloth+Alpha+++Armor+Set  X
+  Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Shield-Weaver+++Armor+Set              X
   Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Stygian+Zin+Alpha+++Armor+Set
   Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Stygian+Zin+Beta+++Armor+Set
-  Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Wyverian+Ears+Alpha+++Armor+Set
+  Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Wyverian+Ears+Alpha+++Armor+Set        X
 
 
 No data on :
