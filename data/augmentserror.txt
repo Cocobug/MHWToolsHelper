@@ -11,8 +11,8 @@ Find max armor value in :
   Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Rath+Heart+Alpha+++Armor+Set       132--146 ?
   Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Rath+Heart+Beta+++Armor+Set       132--146 ?
   Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Ruiner+Nergi+Beta+++Armor+set
-  Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Safi'jiiva+Alpha+++Armor+Set      X
-  Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Safi'jiiva+Beta+++Armor+Set       X
+  Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Safi\u2019jiiva+Alpha+++Armor+Set      X
+  Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Safi\u2019jiiva+Beta+++Armor+Set       X
   Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Sealed+Dragon+Cloth+Alpha+++Armor+Set  X
   Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Shield-Weaver+++Armor+Set              X
   Cant find augment in https://monsterhunterworld.wiki.fextralife.com/Stygian+Zin+Alpha+++Armor+Set

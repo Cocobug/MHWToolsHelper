@@ -6,7 +6,7 @@
     "CriticalBoostII",
     "AgitatorIII",
     "AgitatorIV",
-    "EffluvialExpertI",
+    "EffluviaExpertI",
     "DefenseBoostIV",
     "DefenseBoostV",
     "BlastAttackIV",

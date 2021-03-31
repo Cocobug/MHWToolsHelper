@@ -46,16 +46,16 @@ All errors :
   Ruiner Nergi Be Arm Beta + has no max def
   Ruiner Nergi Be Waist Beta + has no max def
   Ruiner Nergi Be Feet Beta + has no max def
-  Safi'jiiva Helm Alpha + has no max def
-  Safi'jiiva Torso Alpha + has no max def
-  Safi'jiiva Arm Alpha + has no max def
-  Safi'jiiva Waist Alpha + has no max def
-  Safi'jiiva Feet Alpha + has no max def
-  Safi'jiiva Helm Beta + has no max def
-  Safi'jiiva Torso Beta + has no max def
-  Safi'jiiva Arm Beta + has no max def
-  Safi'jiiva Waist Beta + has no max def
-  Safi'jiiva Feet Beta + has no max def
+  Safi\u2019jiiva Helm Alpha + has no max def
+  Safi\u2019jiiva Torso Alpha + has no max def
+  Safi\u2019jiiva Arm Alpha + has no max def
+  Safi\u2019jiiva Waist Alpha + has no max def
+  Safi\u2019jiiva Feet Alpha + has no max def
+  Safi\u2019jiiva Helm Beta + has no max def
+  Safi\u2019jiiva Torso Beta + has no max def
+  Safi\u2019jiiva Arm Beta + has no max def
+  Safi\u2019jiiva Waist Beta + has no max def
+  Safi\u2019jiiva Feet Beta + has no max def
   Shield-W Helm Beta + has no max def
   Shield-W Torso Beta + has no max def
   Shield-W Arm Beta + has no max def

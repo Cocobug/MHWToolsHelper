@@ -31,7 +31,7 @@ class Armor(object):
             if self.parts[part]!=None:
                 if self.parts[part].check():
                     self.empty=False
-
+        return not self.empty
     def save(self,path):
         with open(path+self.savename+".js","w") as f:
             f.write(str(self))
@@ -54,6 +54,7 @@ class Part(object):
     def check(self):
         if self.name=='':
             print("Part",self.part_name,"has no name")
+            return False
         if self.skills=="":
             print("  ",self.name,"has no skills")
         if self.resists==[]:
@@ -62,6 +63,7 @@ class Part(object):
             print("  ",self.name,"has no def")
         if self.maxdef==0:
             print("  ",self.name,"has no max def")
+        return True
 
     def setname(self,path):
         self.name=path.split("/")[-1].replace("Armor","").replace("Set","").replace("++","").replace("+"," ")
@@ -158,7 +160,8 @@ def make_all_from_armor(folder):
             armor=make_from_armor(folder+file,dupes)
             if armor!=None:
                 ret+=[armor]
-                #armor.check()
+                if not armor.check():
+                    print("Armor",armor.name," is empty")
             else:
                 print(file,"coulnd't be processed")
         except FileNotFoundError:
@@ -209,7 +212,7 @@ def make_from_armor(path,dupes):
         if set_skill!=None:
             skills.add((set_skill,'1'))
         part.skills=skills
-        part.setname(name)
+        part.setname(name) # Temporary
         dupes.checkskills(skills)
         arm.addpart(part_name,part)
 
@@ -225,9 +228,11 @@ def make_from_armor(path,dupes):
             print("Can't find rows in",name)
             return arm # returning armor as is, as it can't be finished
         else:
+
             gems=row[2]
             part=arm.getpart(part_i)
             if part!=None: # This part doen't exists, move along
+                part.name=row[0].find("a","wiki_link").contents[-1]
                 part.maxdef=augmented_armor
                 part.mindef=row[1].contents[0]
                 part.resists=[int(i.contents[0]) for i in row[3:]] # Yeah, n/a will make this crash
@@ -274,8 +279,9 @@ if __name__ == '__main__':
     armors=make_all_from_armor("data/Armors/")
 
     for a in armors:
-        # a.save("data/MR/")
-        a.save("C:/MAMP/htdocs/MHWTools/armorcalc/armors/MR/")
+        if a.check():
+            a.save("data/MR/")
+        # a.save("C:/MAMP/htdocs/MHWTools/armorcalc/armors/MR/")
     with open("data/MR/index.js","w") as f:
-        f.write('[\n{}\n]'.format(",\n".join(['   "{}"'.format(a.savename) for a in armors])))
+        f.write('[\n{}\n]'.format(",\n".join(['   "{}"'.format(a.savename) for a in armors if not a.empty])))
     # make_from_armor("data/Armors/Shara+Ishvalda+Alpha+++Armor+Set",Duplicates()).save("data/")
